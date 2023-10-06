@@ -1,6 +1,6 @@
 ---
 title: "Amazon ML Summer School’22"
-excerpt: "Short description of portfolio<br/> item number 2 <br/><img src='/images/amazon_ml.png' width="300" height="100">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: experience
 ---
 
