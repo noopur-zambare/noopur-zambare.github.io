@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Researcher at University of Calgary"
+title: "Amazon ML Summer School’22"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: experience
 ---
