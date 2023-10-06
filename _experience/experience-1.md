@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Researcher at University of Calgary"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/300x100.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/mitacs.png'>"
 collection: experience
 ---
 
