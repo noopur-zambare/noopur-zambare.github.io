@@ -1,8 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "AI For Healthcare "
 collection: projects
-type: "Workshop"
-permalink: /projects/2015-spring-teaching-1
+permalink: /projects/project-4
 
 ---
 
