@@ -5,7 +5,7 @@ permalink: /projects/project-1
 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+** A decision-making algorithm based on LNN | Bachelor’s Thesis **
 
 
  - Liquid Neural Networks (LNNs) as a novel approach to foster decision-making processes.
