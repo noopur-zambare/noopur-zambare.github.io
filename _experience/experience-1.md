@@ -1,10 +1,11 @@
 ---
 title: "Undergraduate Researcher at University of Calgary"
 excerpt: "<div style='text-align: justify;'>
-• Project: Tiny and Robust ML <br/>
-•  Developing an algorithm to compact neural network with early exit features demonstrating enhanced accuracy and efficiency in classification tasks. <br/>
-• Evaluation of various architectures to ensure fairness. <br/>
-• Tech stack: Liquid Neural Network, Machine Learning, Deep Learning <br/>
+Research Internship | Remote | Ongoing
+- Project: Tiny and Robust ML <br/>
+- Developing an algorithm to compact neural network with early exit features demonstrating enhanced accuracy and efficiency in classification tasks. <br/>
+- Evaluation of various architectures to ensure fairness. <br/>
+- Tech stack: Liquid Neural Network, Machine Learning, Deep Learning <br/>
     </div>"
 collection: experience
 ---
