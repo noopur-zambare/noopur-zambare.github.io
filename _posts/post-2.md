@@ -1,20 +1,9 @@
 ---
 title: 'Blog Post number 2'
 date: 2013-08-14
-permalink: /posts//blog-2/
+permalink: /blogs/blog-2/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Stable Diffusion
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+The creative expressions of humanity have always been reflected in art, in all of its forms. Art has changed, pushed limits, and confounded expectations throughout the ages. The world of art is undergoing yet another seismic transition in the digital era, and the groundbreaking idea of Stable Diffusion lies at the centre of this change.

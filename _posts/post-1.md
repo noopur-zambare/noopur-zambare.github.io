@@ -1,7 +1,7 @@
 ---
 title: 'Finding a balance in Ethical AI between Transparency and Privacy'
 date: 2012-08-14
-permalink: /posts/blog-post-1/
+permalink: /blogs/blog-1/
 tags:
   - Ethical AI
 ---
