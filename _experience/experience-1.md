@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Researcher at University of Calgary"
-excerpt: "
-    <br/>"
+excerpt: "<div style='text-align: justify;'>
+    </div>"
 collection: experience
 ---
 
