@@ -1,7 +1,8 @@
 ---
 title: "MITACS Globalink Research Internship At University of Calgary"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary.
+<br/>"
 collection: experience
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary.
