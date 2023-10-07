@@ -1,8 +1,7 @@
 ---
 title: "Undergraduate Researcher at University of Calgary"
 excerpt: "
-    <br/>
-    <img src='/images/mitacs.png' width='300' height='100'>"
+    <br/>"
 collection: experience
 ---
 
