@@ -1,9 +1,9 @@
 ---
 title: "MITACS Globalink Research Internship At University of Calgary"
 excerpt: "<div style='text-align: justify;'>
-Research Internship | Calgary, Canada | May 2023 - August 2023 
+Research Internship | Calgary, Canada | May 2023 - August 2023  <br/>  <br/>
 • Project: Return on Investment (ROI) of Data Analytics <br/>
-• Utilized NLP and requirements dependency extraction to construct a full framework to estimate ROI
+• Utilized NLP and requirements dependency extraction to construct a full framework to estimate ROI. <br/>
 • Performed comprehensive investigation comparing the eﬀicacy of active learning and passive learning approaches in improving the accuracy of prediction models. <br/>
 • Hosted the application on AWS EC2 and implemented CodePipeline to automate the deployment procedure. <br/>
 • Business Impact: Highlighted possible ROI under several circumstances, potentially helping the business to manage resources and prioritise data-driven plans. <br/>
