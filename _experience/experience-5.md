@@ -1,6 +1,10 @@
 ---
 title: "AutomationEdge, India - Data Science Internship"
-excerpt: "<div style='text-align: justify;'> During my Data Science Internship at Automation Edge in December 2021 - January 2022, based in India, my primary focus was on research-driven projects. I formulated predictive models for IT ticket volumes using Decision Tree Classifier and Deep Neural Networks, leading to improved resource allocation within the organization. Additionally, I leveraged Natural Language Processing (NLP) techniques to enhance the functionality of ChatBots built with the BOT Framework Composer, integrating knowledge base with Microsoft Azure, thereby enabling these bots to understand and respond to employee inquiries more effectively. This research-driven approach had a substantial impact as it laid the foundation for innovative automation strategies in customer service operations. My tech stack encompassed Machine Learning, Deep Learning, Power BI, Microsoft Azure, and Bot Composer Framework, showcasing my commitment to cutting-edge technologies and research in the field of data science and automation.
+excerpt: "<div style='text-align: justify;'> 
+• Formulated predictive models for IT ticket volumes using Decision Tree Classifier and Deep Neural Networks, enabling improved resource allocation. <br/>
+• Leveraged NLP techniques to enhance the functionality of ChatBots built with BOT Framework Composer integrating knowledge base with Microsoft Azure, enabling them to understand and respond to employee inquiries more effectively. <br/>
+• Impact: Automation strategies established the groundwork for customer service operations innovation. <br/>
+• Tech stack: Machine Learning, Deep Learning, Power BI, Microsoft Azure, Bot Composer Framework <br/>
 </div>"
 collection: experience
 ---
