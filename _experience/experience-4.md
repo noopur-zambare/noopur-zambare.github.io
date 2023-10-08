@@ -7,7 +7,7 @@ Machine Learning Internship | India | June 2022 - July 2022
 <li>Enhanced comprehension of textual customer complaints by implementing NER and POS tagging methods.</li>
 <li>Impact: The model predicted the intents for the customer complaints dataset of banks.</li>
 <li>Tech stack: Machine Learning, Deep learning, NLP, Spacy, Textacy</li>
-</div>"
+"
 
    
 collection: experience

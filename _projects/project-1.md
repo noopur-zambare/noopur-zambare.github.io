@@ -1,5 +1,6 @@
 ---
 title: "Liquid Neural Networks for Enhanced Decision-Making"
+excerpt: "KK"
 collection: projects
 permalink: /projects/project-1
 

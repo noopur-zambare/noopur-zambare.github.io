@@ -7,7 +7,7 @@ Data Science Internship | India | Dec 2021 - Jan 2022
 <li>Leveraged NLP techniques to enhance the functionality of ChatBots built with BOT Framework Composer integrating knowledge base with Microsoft Azure.</li>
 <li>Impact: Automation strategies established the groundwork for customer service operations innovation.</li>
 <li>Tech stack: Machine Learning, Deep Learning, Power BI, Microsoft Azure, Bot Composer Framework </li>
-</div>"
+"
 collection: experience
 ---
 

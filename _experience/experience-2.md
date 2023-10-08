@@ -9,7 +9,7 @@ Research Internship | Calgary, Canada | May 2023 - August 2023
 <li>Hosted the application on AWS EC2 and implemented CodePipeline to automate the deployment procedure. </li>
 <li>Business Impact: Highlighted possible ROI under several circumstances, potentially helping the business to manage resources and prioritise data-driven plans. </li>
 <li>Tech stack: Deep Learning, Machine Learning, Data Science, NLP, Cloud Computing (AWS), React JS, Flask </li>
-    </div>"
+   "
 collection: experience
 ---
 
