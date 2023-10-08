@@ -5,11 +5,10 @@ Research Internship | Remote | Ongoing  <br/>  <br/>
 
 <ul>
 <li>Project: Tiny and Robust ML </li>
-<li>Developing an algorithm to compact neural network with early exit features demonstrating enhanced accuracy and efficiency in classification tasks. <br/>
-<li>Evaluation of various architectures to ensure fairness. <br/>
-<li>Tech stack: Liquid Neural Network, Machine Learning, Deep Learning <br/>
-</ul>
-    </div>"
+<li>Developing an algorithm to compact neural network with early exit features demonstrating enhanced accuracy and efficiency in classification tasks. </li>
+<li>Evaluation of various architectures to ensure fairness. </li>
+<li>Tech stack: Liquid Neural Network, Machine Learning, Deep Learning </li>
+"
 collection: experience
 ---
 
