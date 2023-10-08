@@ -13,8 +13,8 @@ redirect_from:
 Education
 ---
 - Indian Institute of Technology Jodhpur - India | Expected: 2024
-    - Bachelor’s in Mechanical Engineering
-    - Specialisation in Data Science
+  * Bachelor’s in Mechanical Engineering
+  * Specialisation in Data Science
 
 - Green Valley High School - India | 2020
   - Higher Secondary School | CBSE
