@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Researcher at University of Calgary"
 excerpt: "<div style='text-align: justify;'>
-Research Internship | Remote | Ongoing  <br/>  <br/>
+Research Internship | Remote | Ongoing 
 
 <ul>
 <li>Project: Tiny and Robust ML </li>

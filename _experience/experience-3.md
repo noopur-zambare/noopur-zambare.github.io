@@ -1,7 +1,8 @@
 ---
 title: "Amazon ML Summer School’22"
 excerpt: "<div style='text-align: justify;'>
-Amazon | Apprenticeship | July 2022  <br/>  <br/>
+Amazon | Apprenticeship | July 2022 
+<ul>
     </div>"
 collection: experience
 ---
