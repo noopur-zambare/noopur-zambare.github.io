@@ -23,8 +23,8 @@ Expected: 2024
 
 ### Green Valley High School - India
 2020
-  * Higher Secondary School | CBSE
+  * Higher Secondary School - CBSE
 
 ### SKI School - India
 2018
-  * Senior Secondary School | CBSE 
+  * Senior Secondary School - CBSE 
