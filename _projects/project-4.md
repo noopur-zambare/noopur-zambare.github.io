@@ -1,17 +1,9 @@
 ---
 title: "AI For Healthcare "
+excerpt: "Framework for harnessing ML to create Wearable Medical Technology"
 collection: projects
 permalink: /projects/project-4
 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Framework for harnessing ML to create Wearable Medical Technology

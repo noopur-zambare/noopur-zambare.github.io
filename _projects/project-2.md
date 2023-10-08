@@ -1,11 +1,12 @@
 ---
-title: "Meta-Reinforcement Learning with GANs for Text Classification "
+title: "Meta Learning with GANs for Text Classification "
+excerpt: "ML framework for Text Classification using Meta-Learning with GAN"
 collection: projects
 permalink: /projects/project-2
 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### ML framework for Text Classification using Meta-Learning with GAN
 
 - Applied a cutting-edge Meta-Reinforcement Learning framework to substantially improve model performance and facilitate rapid adaptation to dynamically changing environments and tasks.
 - Developed Generative Adversarial Networks (GANs) for data augmentation, producing synthetic training samples.
