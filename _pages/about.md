@@ -28,6 +28,6 @@ As I approach the end of my undergraduate journey, I am excited about the endles
 During my time as a student, I have actively pursued opportunities to expand my knowledge and gain practical experience. Such opportunities included my role as a Data Science and Machine Learning intern. This experience allowed me to work on real-world projects, collaborating with a team to analyse and extract insights from large datasets. It was during this internship that I discovered my passion for using Machine Learning and Deep Learning techniques to uncover patterns and make data-driven predictions.
 <br/><br/>
 
-I was awarded the MITACS Globalink Research Internship by MITACS Canada. I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary.
+I was awarded the MITACS Globalink Research Internship by <a src="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">MITACS Canada </a>. I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary.
 
 </div>
