@@ -1,7 +1,7 @@
 ---
 title: "Meta Learning with GANs for Text Classification"
 excerpt: "<div style='text-align: justify;'> 
-<b>ML framework for Text Classification using Meta-Learning with GAN</b>
+<b>ML framework for Text Classification using Meta-Learning with GANs</b>
 <ul>
 <li>Applied a cutting-edge Meta-Learning framework to substantially improve model performance and facilitate rapid adaptation to dynamically changing environments and tasks.</li> 
 <li>Developed GAN for data augmentation consisting of a multi-layered generator and discriminator.address Catastrophic Forgetting during Meta-Learning.</li>
