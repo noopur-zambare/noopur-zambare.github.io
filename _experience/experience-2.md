@@ -4,9 +4,9 @@ excerpt: "<div style='text-align: justify;'>
 Research Internship | Calgary, Canada | May 2023 - August 2023  
 
 <ul>
-<li>Project: Return on Investment (ROI) of Data Analytics </li>
-<li>Utilized NLP, Active Learning and requirements dependency extraction to construct a full framework to estimate ROI. </li>
-<li>Hosted the application on AWS EC2 and implemented CodePipeline to automate the deployment procedure. </li>
+<li>Project: <b>Return on Investment (ROI) of Data Analytics</b> </li>
+<li>Used NLP, Active Learning and requirements dependency extraction to construct a full framework to estimate ROI</li>
+<li>Hosted the application on AWS EC2 and implemented CodePipeline to automate the deployment procedure</li>
 <li>Business Impact: Highlighted possible ROI under several circumstances, potentially helping the business to manage resources and prioritise data-driven plans. </li>
 <li>Tech stack: Deep Learning, Machine Learning, Data Science, NLP, Cloud Computing (AWS), React JS, Flask </li>
    "
