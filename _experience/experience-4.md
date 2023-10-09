@@ -1,7 +1,7 @@
 ---
 title: "AutomationEdge, India"
 excerpt: "<div style='text-align: justify;'>
-Machine Learning Internship | India | June 2022 - July 2022 
+<b>Machine Learning Internship | India | June 2022 - July 2022</b> 
 <ul>
 <li>Employed Curriculum Learning to progressively present training samples for effective learning.</li>
 <li>Enhanced comprehension of textual customer complaints by implementing NER and POS tagging methods</li>

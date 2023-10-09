@@ -1,10 +1,10 @@
 ---
 title: "Undergraduate ML Researcher at University of Calgary"
 excerpt: "<div style='text-align: justify;'>
-Research Internship | Remote | Ongoing 
+<b>Research Internship | Remote | Ongoing </b>
 
 <ul>
-<li>Project: Tiny and Robust ML </li>
+<li><b>Project: Tiny and Robust ML </b></li>
 <li>Developing an algorithm to compress neural networks with early exit feature</li>
 <li>Working on utilizing flexibility offered by Liquid Neural Networks</li>
 <li>Tech stack: Liquid Neural Network, Machine Learning, Deep Learning </li>

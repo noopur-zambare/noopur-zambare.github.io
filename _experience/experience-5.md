@@ -1,7 +1,7 @@
 ---
 title: "AutomationEdge, India"
 excerpt: "<div style='text-align: justify;'> 
-Data Science Internship | India | Dec 2021 - Jan 2022  
+<b>Data Science Internship | India | Dec 2021 - Jan 2022</b>  
 <ul>
 <li>ormulated predictive models for IT ticket volumes using Deep Neural Networks, enabling improved resource allocation</li>
 <li>Leveraged NLP techniques to enhance the functionality of ChatBots built with BOT Framework Composer integrating knowledge base with Microsoft Azure.</li>
