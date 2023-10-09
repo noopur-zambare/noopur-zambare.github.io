@@ -3,7 +3,7 @@ title: "AutomationEdge, India"
 excerpt: "<div style='text-align: justify;'> 
 Data Science Internship | India | Dec 2021 - Jan 2022  
 <ul>
-<li>Formulated predictive models for IT ticket volumes using Decision Tree Classifier and Deep Neural Networks, enabling improved resource allocation. </li>
+<li>ormulated predictive models for IT ticket volumes using Deep Neural Networks, enabling improved resource allocation</li>
 <li>Leveraged NLP techniques to enhance the functionality of ChatBots built with BOT Framework Composer integrating knowledge base with Microsoft Azure.</li>
 <li>Impact: Automation strategies established the groundwork for customer service operations innovation.</li>
 <li>Tech stack: Machine Learning, Deep Learning, Power BI, Microsoft Azure, Bot Composer Framework </li>

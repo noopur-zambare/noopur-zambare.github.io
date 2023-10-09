@@ -3,9 +3,9 @@ title: "AutomationEdge, India"
 excerpt: "<div style='text-align: justify;'>
 Machine Learning Internship | India | June 2022 - July 2022 
 <ul>
-<li>Generated word embeddings and text representations from customer complaints to enhance the NLP models’ performance. </li>
-<li>Enhanced comprehension of textual customer complaints by implementing NER and POS tagging methods.</li>
-<li>Impact: The model predicted the intents for the customer complaints dataset of banks.</li>
+<li>Employed Curriculum Learning to progressively present training samples for effective learning.</li>
+<li>Enhanced comprehension of textual customer complaints by implementing NER and POS tagging methods</li>
+<li>Impact: Improved text analytics and intent classification</li>
 <li>Tech stack: Machine Learning, Deep learning, NLP, Spacy, Textacy</li>
 "
 
