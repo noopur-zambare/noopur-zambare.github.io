@@ -10,7 +10,7 @@ permalink: /projects/project-2
 
 ---
 
-### A decision-making algorithm based on Federated Co-Learning - Bachelor’s Thesis 
+### Framework for adaptive learning in constrained data
 
 - Used Bayesian Meta-Learning to design a framework that adapts fast and performs eﬀiciently with limited data
 - Designed a Few-Shot Learning paradigm which achieved 80% accuracy in the classification tasks.
