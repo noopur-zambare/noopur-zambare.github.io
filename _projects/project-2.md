@@ -1,20 +1,16 @@
 ---
-title: "Meta Learning with GANs for Text Classification"
+title: "Bayesian Meta-Learning"
 excerpt: "<div style='text-align: justify;'> 
-<b>ML framework for Text Classification using Meta-Learning with GANs</b>
+<b>Framework for adaptive learning in constrained data</b>
 <ul>
-<li>Applied a cutting-edge Meta-Learning framework to substantially improve model performance and facilitate rapid adaptation to dynamically changing environments and tasks.</li> 
-<li>Developed GAN for data augmentation consisting of a multi-layered generator and discriminator.address Catastrophic Forgetting during Meta-Learning.</li>
-<li>Achieved an accuracy of 95%, compared to 87% for baseline models.</li> 
-"
+<li>Used Bayesian Meta-Learning to design a framework that adapts fast and performs eﬀiciently with limited data.</li> 
+<li>Designed a Few-Shot Learning paradigm which achieved 80% accuracy in the classification tasks.</li>"
 collection: projects
 permalink: /projects/project-2
 
 ---
 
-### ML framework for Text Classification using Meta-Learning with GAN
+### A decision-making algorithm based on Federated Co-Learning - Bachelor’s Thesis 
 
-- Applied a cutting-edge Meta-Learning framework to substantially improve model performance and facilitate rapid adaptation to dynamically changing environments and tasks.
--  Developed GAN for data augmentation consisting of a multi-layered generator and discriminator.address Catastrophic Forgetting during Meta-Learning.
-- Achieved an accuracy of 95%, compared to 87% for baseline models.
-- Algorithms: Reinforcement Learning, Meta-Learning
+- Used Bayesian Meta-Learning to design a framework that adapts fast and performs eﬀiciently with limited data
+- Designed a Few-Shot Learning paradigm which achieved 80% accuracy in the classification tasks.

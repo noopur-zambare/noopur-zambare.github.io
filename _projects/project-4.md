@@ -1,13 +1,20 @@
 ---
-title: "AI For Healthcare "
+title: "Bias Detection in Federated Learning and Swarm Learning"
 excerpt: "<div style='text-align: justify;'> 
-<b>Framework for harnessing ML to create Wearable Medical Technology</b>
+<b>Technique to detect biases in Distributed ML Algorithms</b>
 <ul>
 <li>Designed 5 clients and 5 agents system for distributed learning.</li> 
-<li>Analyzed Differential Privacy techniques to ensure privacy in Federated Learning and explored security issues in Swarm Learning.</li>"
+<li>Explored Differential Privacy techniques to add noise to the aggregated model updates, ensuring privacy in Federated Learning.</li>
+<li>Analyzed security in Swarm Learning using Decentralized Identity Management.</li>
+"
 collection: projects
 permalink: /projects/project-4
 
 ---
 
-### Framework for harnessing ML to create Wearable Medical Technology
+### Technique to detect biases in Distributed ML Algorithms
+
+- Designed 5 clients and 5 agents system for distributed learning.
+- Explored Differential Privacy techniques to add noise to the aggregated model updates, ensuring privacy in Federated Learning.
+- Analyzed security in Swarm Learning using Decentralized Identity Management.
+- Algorithm: Distributed Machine Learning

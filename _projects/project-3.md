@@ -1,20 +1,20 @@
 ---
-title: "Bias Detection in Federated Learning and Swarm Learning"
+title: "Meta Learning with GANs for Text Classification"
 excerpt: "<div style='text-align: justify;'> 
-<b>Technique to detect biases in Distributed ML Algorithms</b>
+<b>ML framework for Text Classification using Meta-Learning with GANs</b>
 <ul>
-<li>Designed 5 clients and 5 agents system for distributed learning.</li> 
-<li>Explored Differential Privacy techniques to add noise to the aggregated model updates, ensuring privacy in Federated Learning.</li>
-<li>Analyzed security in Swarm Learning using Decentralized Identity Management.</li>
+<li>Applied a cutting-edge Meta-Learning framework to substantially improve model performance and facilitate rapid adaptation to dynamically changing environments and tasks.</li> 
+<li>Developed GAN for data augmentation consisting of a multi-layered generator and discriminator.address Catastrophic Forgetting during Meta-Learning.</li>
+<li>Achieved an accuracy of 95%, compared to 87% for baseline models.</li> 
 "
 collection: projects
 permalink: /projects/project-3
 
 ---
 
-### Technique to detect biases in Distributed ML Algorithms
+### ML framework for Text Classification using Meta-Learning with GAN
 
-- Designed 5 clients and 5 agents system for distributed learning.
-- Explored Differential Privacy techniques to add noise to the aggregated model updates, ensuring privacy in Federated Learning.
-- Analyzed security in Swarm Learning using Decentralized Identity Management.
-- Algorithm: Distributed Machine Learning
+- Applied a cutting-edge Meta-Learning framework to substantially improve model performance and facilitate rapid adaptation to dynamically changing environments and tasks.
+-  Developed GAN for data augmentation consisting of a multi-layered generator and discriminator.address Catastrophic Forgetting during Meta-Learning.
+- Achieved an accuracy of 95%, compared to 87% for baseline models.
+- Algorithms: Reinforcement Learning, Meta-Learning
