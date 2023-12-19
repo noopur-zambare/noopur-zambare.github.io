@@ -1,16 +1,16 @@
 ---
-title: "Liquid Neural Networks for Enhanced Decision-Making"
+title: "Machine Unlearning in Large Language Models using a Neuroscientific Cognitive Approach"
 excerpt: "<div style='text-align: justify;'> 
-<b>A decision-making algorithm based on Federated Co-Learning : Bachelor’s Thesis [Ongoing]</b>
+<b>Optimizing Unlearning LLMs with advanced neuro-inspired algorithms</b>
 <ul>
-<li>Developing an algorithm to incorporate Co-Training into Federated Learning such that data is decentralized yet benefiting both models mutually.</li> 
-<li>Utilizing Liquid Neural Networks as the base model in Federated Learning Network.</li>"
+<li>Developed and improved a state-of-the-art unlearning algorithm for Large Language Models by adding extensive representations of the memory system, modulations of the attention mechanism, and other cognitive processes motivated by neuroscience.</li>
+<li>Created an adaptive threshold mechanism for the reconsolidation window to optimise unlearning timing and requirement depending on error severity, concept usage frequency, and emotional connotations.</li>"
 collection: projects
 permalink: /projects/project-2
 
 ---
 
-### A decision-making algorithm based on Federated Co-Learning - Bachelor’s Thesis 
+### Optimizing Unlearning LLMs with advanced neuro-inspired algorithms
 
-- Developing an algorithm to incorporate Co-Training into Federated Learning such that data is decentralized yet benefiting both models mutually.
-- Utilizing Liquid Neural Networks as the base model in Federated Learning Network.
+- Developed and improved a state-of-the-art unlearning algorithm for Large Language Models by adding extensive representations of the memory system, modulations of the attention mechanism, and other cognitive processes motivated by neuroscience.
+- Created an adaptive threshold mechanism for the reconsolidation window to optimise unlearning timing and requirement depending on error severity, concept usage frequency, and emotional connotations.
