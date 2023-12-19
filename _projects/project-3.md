@@ -15,3 +15,9 @@ permalink: /projects/project-3
 - Developed an LLM-powered Q&A system (Langchain + Google Palm) within Streamlit UI to reduce workload for e-learning company's human staff.
 - Spearheaded the implementation of FAISS vector database for fast retrieval of relevant answers, optimizing system performance and user satisfaction. 
 - This innovative approach enables real-time response and seamless access to knowledge within the e-learning platform.
+
+### Tools
+- Langchain + Google Palm: LLM based Q&A
+- Streamlit: UI
+- Huggingface instructor embeddings: Text embeddings
+- FAISS: Vector databse
