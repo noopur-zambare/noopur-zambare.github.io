@@ -1,20 +1,16 @@
 ---
-title: "Bias Detection in Federated Learning and Swarm Learning"
+title: "Bayesian Meta-Learning"
 excerpt: "<div style='text-align: justify;'> 
-<b>Technique to detect biases in Distributed ML Algorithms</b>
+<b>Framework for adaptive learning in constrained data</b>
 <ul>
-<li>Designed 5 clients and 5 agents system for distributed learning.</li> 
-<li>Explored Differential Privacy techniques to add noise to the aggregated model updates, ensuring privacy in Federated Learning.</li>
-<li>Analyzed security in Swarm Learning using Decentralized Identity Management.</li>
-"
+<li>Used Bayesian Meta-Learning to design a framework that adapts fast and performs eﬀiciently with limited data.</li> 
+<li>Designed a Few-Shot Learning paradigm which achieved 80% accuracy in the classification tasks.</li>"
 collection: projects
 permalink: /projects/project-4
 
 ---
 
-### Technique to detect biases in Distributed ML Algorithms
+### Framework for adaptive learning in constrained data
 
-- Designed 5 clients and 5 agents system for distributed learning.
-- Explored Differential Privacy techniques to add noise to the aggregated model updates, ensuring privacy in Federated Learning.
-- Analyzed security in Swarm Learning using Decentralized Identity Management.
-- Algorithm: Distributed Machine Learning
+- Used Bayesian Meta-Learning to design a framework that adapts fast and performs eﬀiciently with limited data
+- Designed a Few-Shot Learning paradigm which achieved 80% accuracy in the classification tasks.
