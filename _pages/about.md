@@ -53,7 +53,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li></li>
     </ol>
   </div>
-
+</div>
 
 
 </div>
