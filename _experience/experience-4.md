@@ -5,7 +5,7 @@ excerpt: "<div style='text-align: justify;'>
 <ul>
 <li>Employed Curriculum Learning to progressively present training samples for effective learning.</li>
 <li>Enhanced comprehension of textual customer complaints by implementing NER and POS tagging methods</li>
-<li>mpact: Improved text analytics and Intent Recognition Algorithms</li>
+<li>Impact: Improved text analytics and Intent Recognition Algorithms</li>
 <li>Tech stack: Machine Learning, Deep learning, NLP, Spacy, Textacy</li>
 "
 
