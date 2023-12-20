@@ -41,6 +41,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Statistical Inference and Simulation Techniques</li>
       <li>Introduction to Machine Learning</li>
       <li>Time Series Analysis</li>
+      <li>Introduction to Data Science</li>
     </ol>
     <ol start="7">
       <li>Software Engineering</li>
@@ -49,6 +50,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Calculus and Linear Algebra</li>
       <li>Software Architecture & Technology of Large-Scale Systems</li>
       <li>Scientific Computations </li>
+      <li></li>
     </ol>
     
 </div>
