@@ -46,7 +46,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
     </ol>
   </div>
   <div>
-    <ol start="8">
+    <ol>
       <li>Software Engineering</li>
       <li>Operating Systems</li>
       <li>Database Management Systems</li>
