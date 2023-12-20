@@ -37,13 +37,20 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
     <ol>
       <li>Advanced Machine Learning</li>
       <li>Introduction to Computer Science</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
     </ol>
   </div>
   <div>
     <!-- Add additional courses in the list below -->
     <ol start="3">
+      <li>Software Engineering</li>
       <li>Operating Systems</li>
       <li>Database Management Systems</li>
+      <li>Calculus and Linear Algebra</li>
+      <li></li>
     </ol>
   </div>
 </div>
