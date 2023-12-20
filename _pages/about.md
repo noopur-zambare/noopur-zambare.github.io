@@ -30,4 +30,23 @@ During my time as a student, I got opportunities to expand my knowledge and gain
 
 I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship" target="_blank"> MITACS Globalink Research Internship</a> by MITACS Canada. I was chosen amongst students from 16 countries to undertake a summer internship at <a href="https://www.ucalgary.ca/" target="_blank">University of Calgary</a>.
 
+<b>Coursework:</b>
+    <p>These are the courses I have taken in my academic education, at workshops, internships, and extracurricular coursework in addition to self-study.</p>
+<div style="columns: 2;">
+  <div>
+    <ol>
+      <li>Advanced Machine Learning</li>
+      <li>Introduction to Computer Science</li>
+    </ol>
+  </div>
+  <div>
+    <!-- Add additional courses in the list below -->
+    <ol start="3">
+      <li>Operating Systems</li>
+      <li>Database Management Systems</li>
+    </ol>
+  </div>
+</div>
+
+
 </div>
