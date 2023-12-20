@@ -39,21 +39,23 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Advanced Machine Learning</li>
       <li>Data Structures and Algorithms</li>
       <li>Introduction to Computer Science</li>
+      <li>Introduction to Generative AI</li>
+      <li>Introduction to Deep Learning</li>
       <li>Statistical Inference and Simulation Techniques</li>
       <li>Introduction to Machine Learning</li>
-      <li>Time Series Analysis</li>
       <li>Introduction to Data Science</li>
     </ol>
   </div>
   <div style="flex: 1;">
-    <ol start="8">
+    <ol start="9">
       <li>Software Engineering</li>
       <li>Operating Systems</li>
       <li>Database Management Systems</li>
       <li>Calculus and Linear Algebra</li>
       <li>Software Architecture & Technology of Large-Scale Systems</li>
       <li>Scientific Computations</li>
-      <li></li>
+      <li>Time Series Analysis</li>
+      <li>Optimisations</li>
     </ol>
   </div>
 </div>
