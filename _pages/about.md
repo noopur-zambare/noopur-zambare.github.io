@@ -43,8 +43,6 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Introduction to Machine Learning</li>
       <li>Time Series Analysis</li>
     </ol>
- 
- 
     <ol start="7">
       <li>Software Engineering</li>
       <li>Operating Systems</li>
