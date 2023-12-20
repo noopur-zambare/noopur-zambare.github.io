@@ -44,6 +44,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
     </ol>
   </div>
   <div>
+  <div>
     <ol start="3">
       <li>Software Engineering</li>
       <li>Operating Systems</li>
@@ -52,6 +53,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Software Architecture & Technology of Large-Scale
 Systems</li>
     </ol>
+    </div>
   </div>
 </div>
 
