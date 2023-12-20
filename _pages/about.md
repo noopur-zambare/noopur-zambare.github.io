@@ -31,6 +31,7 @@ During my time as a student, I got opportunities to expand my knowledge and gain
 I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship" target="_blank"> MITACS Globalink Research Internship</a> by MITACS Canada. I was chosen amongst students from 16 countries to undertake a summer internship at <a href="https://www.ucalgary.ca/" target="_blank">University of Calgary</a>.
 <br/><br/>
 
+<hr>
 <b>Coursework:</b>
 <p>These are the courses I have taken in my academic education, at workshops, internships, and extracurricular coursework in addition to self-study.</p>
 <div style="display: flex;">
