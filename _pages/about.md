@@ -37,10 +37,11 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
   <div>
     <ol>
       <li>Advanced Machine Learning</li>
+      <li>Data Structures and Algorithms </li>
       <li>Introduction to Computer Science</li>
       <li>Statistical Inference and Simulation Techniques</li>
-      <li>Introduction to Machine Learning </li>
-      <li></li>
+      <li>Introduction to Machine Learning</li>
+      <li>Time Series Analysis</li>
     </ol>
   </div>
   <div>
