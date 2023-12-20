@@ -34,6 +34,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
 <b>Coursework:</b>
 <p>These are the courses I have taken in my academic education, at workshops, internships, and extracurricular coursework in addition to self-study.</p>
 <div style="columns: 2;">
+ <div>
     <ol>
       <li>Advanced Machine Learning</li>
       <li>Data Structures and Algorithms </li>
@@ -43,7 +44,9 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Time Series Analysis</li>
       <li>Introduction to Data Science</li>
     </ol>
-    <ol start="7">
+  </div>
+  <div>
+    <ol start="8">
       <li>Software Engineering</li>
       <li>Operating Systems</li>
       <li>Database Management Systems</li>
@@ -52,6 +55,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li>Scientific Computations </li>
       <li></li>
     </ol>
+  </div>
     
 </div>
 
