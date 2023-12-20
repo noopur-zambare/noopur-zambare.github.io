@@ -33,7 +33,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
 <b>Coursework:</b>
     <p>These are the courses I have taken in my academic education, at workshops, internships, and extracurricular coursework in addition to self-study.</p>
 <div style="columns: 2;">
-  <div>
+
     <ol>
       <li>Advanced Machine Learning</li>
       <li>Introduction to Computer Science</li>
@@ -53,7 +53,7 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
       <li></li>
     </ol>
   </div>
-</div>
+
 
 
 </div>
