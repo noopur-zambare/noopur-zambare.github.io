@@ -21,7 +21,6 @@ As I approach the end of my undergraduate journey, I am excited about the endles
 <li>Machine Learning</li>
 <li>Deep Learning</li>
 <li>Large Language Models</li>
-<li>Reinforcement Learning</li>
 <li>NLP</li>
 </ul>
 
