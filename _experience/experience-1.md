@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate ML Researcher at IIT Jodhpur"
+title: "Graduate Teaching Assistant - CMPUT 200"
 excerpt: "<div style='text-align: justify;'>
 <b>Research Internship | Remote | Ongoing </b>
 
