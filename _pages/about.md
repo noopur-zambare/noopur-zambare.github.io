@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div>
-I'm a first-year MSc student at the Department of Computing Science at the <a href="(https://www.ualberta.ca/en/index.html)" target="_blank">University of Alberta</a>. I did my undergraduate from <a href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology" target="_blank">Indian Institute of Technology, Jodhpur (India)</a> in a Bachelor’s of Technology in Mechanical Engineering with a Specialisation in Data Science.
+I'm a first-year MSc student in the Department of Computing Science at the <a href="https://www.ualberta.ca/en/index.html" target="_blank">University of Alberta</a>. I did my undergraduate from <a href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology" target="_blank">Indian Institute of Technology, Jodhpur (India)</a> in a Bachelor’s of Technology in Mechanical Engineering with a Specialisation in Data Science.
 <br/><br/>
 I have been captivated by the intersection of technology and engineering throughout my academic career. I believe the solution to today's complicated problems lies in harnessing the power of data and using it to encourage innovation. I have a strong foundation in problem-solving and analytical thinking, thanks to my undergraduate journey which has allowed me to delve even further into the world of algorithms, data science, and predictive modelling.
 
