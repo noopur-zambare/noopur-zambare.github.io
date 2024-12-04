@@ -7,7 +7,7 @@ excerpt: "<div style='text-align: justify;'>
 <li>Spearheaded the implementation of FAISS vector database for fast retrieval of relevant answers, optimizing system performance and user satisfaction.</li> 
 <li>This innovative approach enables real-time response and seamless access to knowledge within the e-learning platform.</li>"
 collection: projects
-permalink: /projects/project-3
+permalink: /projects/project-2
 
 ---
 
