@@ -5,9 +5,8 @@ excerpt: "<div style='text-align: justify;'>
 
 <ul>
 <li><b>Project: Healthcare Analytics using GANs </b></li>
-<li>Developing an algorithm for robust classification of chewing moments.</li>
-<li>Working on utilizing flexibility offered by Liquid Neural Networks</li>
-<li>Tech stack: Liquid Neural Network, Machine Learning, Deep Learning </li>
+<li>Working as a Teaching Assistant of CMPUT 200 - Ethics of Data Science (Fall 2024)</li>
+<li>Responsible for conducting office hours, labs, grading assignments and exams, solving student queries, etc</li>
 "
 collection: experience
 ---
