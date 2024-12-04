@@ -8,7 +8,7 @@ excerpt: "<div style='text-align: justify;'>
 <li>Conduced trials on grey and coloured images and obtained model accuracy of 60%.</li>
 "
 collection: projects
-permalink: /projects/project-8
+permalink: /projects/project-4
 
 ---
 
