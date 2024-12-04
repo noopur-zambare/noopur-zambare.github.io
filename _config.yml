@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Noopur Nishikant Zambare"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student at Indian Institute of Technology"
+  bio              : "Gradute Student at University of Alberta"
   location         : "India"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Np_qH1EAAAAJ&hl=en&oi=ao"
+  googlescholar    : ""
   email            : "zambarenoopur.zn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
