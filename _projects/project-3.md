@@ -7,7 +7,7 @@ excerpt: "<div style='text-align: justify;'>
 <li>Real-time sensor data acquisition and transmission enabled by the HC-05 Bluetooth Module.</li>
 <li>Compared computational eﬀiciencies of LNN and LSTM for sequential data.</li>"
 collection: projects
-permalink: /projects/project-7
+permalink: /projects/project-3
 
 ---
 
