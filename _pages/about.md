@@ -12,9 +12,7 @@ I'm a first-year MSc student in the Department of Computing Science at the <a hr
 <br/><br/>
 I have been captivated by the intersection of technology and engineering throughout my academic career. I believe the solution to today's complicated problems lies in harnessing the power of data and using it to encourage innovation. I have a strong foundation in problem-solving and analytical thinking, thanks to my undergraduate journey which has allowed me to delve even further into the world of algorithms, data science, and predictive modelling.
 
-<br/><br/>
-As I approach the end of my undergraduate journey, I am excited about the endless possibilities that lie ahead. I hope to contribute to innovative projects that make a positive impact on society while continuously learning and pushing the boundaries of what is possible.
-<br/><br/>
+<b>I like exploring ML algorithms and investigating the extent to which they can be made fair and bias-free.</b>
 
 <b>My current areas of interest include:</b>
 <ul>
