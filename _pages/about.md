@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div>
-I'm a final-year undergraduate student at <a href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology" target="_blank">Indian Institute of Technology, Jodhpur (India)</a> pursuing Bachelor’s in Mechanical Engineering with Specialisation in Data Science.
+I'm a first-year MSc student at the Department of Computing Science at the University of Alberta. I did my undergraduate from <a href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology" target="_blank">Indian Institute of Technology, Jodhpur (India)</a> in a Bachelor’s of Technology in Mechanical Engineering with a Specialisation in Data Science.
 <br/><br/>
 I have been captivated by the intersection of technology and engineering throughout my academic career. I believe the solution to today's complicated problems lies in harnessing the power of data and using it to encourage innovation. I have a strong foundation in problem-solving and analytical thinking, thanks to my undergraduate journey which has allowed me to delve even further into the world of algorithms, data science, and predictive modelling.
 
@@ -20,45 +20,15 @@ As I approach the end of my undergraduate journey, I am excited about the endles
 <ul>
 <li>Machine Learning</li>
 <li>Deep Learning</li>
-<li>Large Language Models</li>
-<li>NLP</li>
 </ul>
 
 During my time as a student, I got opportunities to expand my knowledge and gain practical experience. Such opportunities included my role as a Data Science and Machine Learning intern. This experience allowed me to work on real-world projects, collaborating with a team to analyse and extract insights from large datasets. It was during these internships that I discovered my passion for using Machine Learning and Deep Learning techniques to uncover patterns and make data-driven predictions.
 <br/><br/>
 
-I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship" target="_blank"> MITACS Globalink Research Internship</a> by MITACS Canada. I was chosen amongst students from 16 countries to undertake a summer internship at University of Calgary, Canada.
+I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship" target="_blank"> MITACS Globalink Research Internship</a> by MITACS Canada. I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary, Canada.
 <br/><br/>
-
-<hr>
-<b>Coursework:</b>
-<p>These are the courses I have taken in my academic education, at workshops, internships, and extracurricular coursework in addition to self-study.</p>
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    <ol>
-      <li>Advanced Machine Learning</li>
-      <li>Data Structures and Algorithms</li>
-      <li>Introduction to Computer Science</li>
-      <li>Introduction to Generative AI</li>
-      <li>Introduction to Deep Learning</li>
-      <li>Statistical Inference and Simulation Techniques</li>
-      <li>Introduction to Machine Learning</li>
-      <li>Introduction to Data Science</li>
-    </ol>
-  </div>
-  <div style="flex: 1;">
-    <ol start="9">
-      <li>Software Engineering</li>
-      <li>Operating Systems</li>
-      <li>Database Management Systems</li>
-      <li>Calculus and Linear Algebra</li>
-      <li>Software Architecture & Technology of Large-Scale Systems</li>
-      <li>Scientific Computations</li>
-      <li>Time Series Analysis</li>
-      <li>Optimisations</li>
-    </ol>
-  </div>
-</div>
+  
+  
 
 
 
