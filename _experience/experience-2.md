@@ -24,22 +24,22 @@ This project is part of Software Hub for AnalytiKs, Technology and Innovation Hu
 
 - Step 1 - Login
    
-   <img width="400" alt="login" src="/images/ROI_tool/step1.png">
+   <img width="500" alt="login" src="/images/ROI_tool/step1.png">
 
    
 - Step 2 - File Upload
    
-   <img width="400" alt="step1" src="/images/ROI_tool/step2.png">
+   <img width="500" alt="step1" src="/images/ROI_tool/step2.png">
 
    
 - Step 3 - ML Analytics
  
-   <img width="400" alt="step2" src="/images/ROI_tool/step3.png">
+   <img width="500" alt="step2" src="/images/ROI_tool/step3.png">
 
    
 - Step 4 - ROI Analytics
 
-   <img width="400" alt="step3" src="/images/ROI_tool/step4.png">
+   <img width="500" alt="step3" src="/images/ROI_tool/step4.png">
    
 <h2>Tech Stack</h2>
 <h3>Frontend</h3>
