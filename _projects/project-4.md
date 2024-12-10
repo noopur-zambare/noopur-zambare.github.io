@@ -12,7 +12,7 @@ permalink: /projects/project-4
 
 ---
 
-### A Transfer Learning framework for detecting vehicles in aerial images
+<h2>A Transfer Learning framework for detecting vehicles in aerial images</h2>
 
 <p>In this work, I have utilized transfer learning to train the VGG16 model for vehicle detection in multi-modal imagery. I used the Vehicle Detection in Aerial Imagery (VEDAI) dataset, which contains overhead imagery.</p>
 
@@ -41,5 +41,5 @@ permalink: /projects/project-4
 </ul>
 
 <h2>Prediction</h2>
-<img src="/images/vehicle_detection.png" alt="Result" />
+<img src="/images/vehicle_detection.png" width="100%" alt="Result" />
 
