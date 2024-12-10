@@ -8,10 +8,26 @@ excerpt: "<div style='text-align: justify;'>
 <li>Used NLP, Active Learning and requirements dependency extraction to construct a full framework to estimate ROI</li>
 <li>Hosted the application on AWS EC2 and implemented CodePipeline to automate the deployment procedure</li>
 <li>Business Impact: Highlighted possible ROI under several circumstances, potentially helping the business to manage resources and prioritise data-driven plans. </li>
-<li>Tech stack: Deep Learning, Machine Learning, Data Science, NLP, Cloud Computing (AWS), React JS, Flask </li>
+<li>Tech Stack: Deep Learning, Machine Learning, Data Science, NLP, Cloud Computing (AWS), React JS, Flask </li>
    "
 collection: experience
 ---
 
 I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary.
-During my MITACS Globalink Research Internship at the University of Calgary, my research primarily centered on exploring the ROI (Return on Investment) of Data Analytics. I leveraged Natural Language Processing (NLP) and requirements dependency extraction techniques to develop a comprehensive framework for estimating ROI. Furthermore, I conducted an extensive investigation comparing the effectiveness of active learning and passive learning approaches in enhancing the accuracy of prediction models. To ensure accessibility and scalability, I hosted the application on AWS EC2 and implemented CodePipeline to automate deployment processes. This research had a significant research focus, shedding light on potential ROI scenarios under various circumstances, offering valuable insights for resource management and data-driven prioritization within the business. My technical toolkit encompassed Deep Learning, Machine Learning, Data Science, NLP, Cloud Computing (AWS), React JS, and Flask, showcasing my dedication to innovative and research-driven solutions in the field.
+During my MITACS Globalink Research Internship at the University of Calgary, my research primarily centered on exploring the ROI (Return on Investment) of Data Analytics. I leveraged Natural Language Processing (NLP) and requirements dependency extraction techniques to develop a comprehensive framework for estimating ROI. Furthermore, I conducted an extensive investigation comparing the effectiveness of active learning and passive learning approaches in enhancing the accuracy of prediction models. To ensure accessibility and scalability, I hosted the application on AWS EC2 and implemented CodePipeline to automate deployment processes. This research had a significant research focus, shedding light on potential ROI scenarios under various circumstances, offering valuable insights for resource management and data-driven prioritization within the business.
+
+<h2>Deployed Tool</h2>
+<a href="https://roi.shaktilab.org/" target="_blank">Demo</a>
+<h2>Tech Stack</h2>
+<ul>
+   <li>Amazon Web Services</li>
+   <li>React JS/li>
+   <li>Flask</li>
+   <li></li>
+   <li></li>
+</ul>
+
+<video width="100%" controls>
+  <source src="/images/roi_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

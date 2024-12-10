@@ -33,6 +33,7 @@ permalink: /projects/project-4
 <ul>
   <li>Since the original VGG16 model takes input size as 224x224, we had to resize the 20x20 images into 224x224. However, the images got blurred by resizing from the small pixel size of 20x20 to the high pixel size of 224x224. Therefore, we decided to modify the input to adapt to the different size. This technique worked effectively.</li>
 </ul>
+
 <h2>Conclusion</h2>
 <ul>
   <li>In this work, we modified the original VGG16 model to accept input sizes of 128x128 and 64x64. We also utilized transfer learning by using the pre-trained weights of ImageNet and only training the last three dense layers.</li>
