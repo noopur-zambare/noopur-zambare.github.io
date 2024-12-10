@@ -3,7 +3,7 @@ title: "Dense Network Pruning using Neural Collapse under Imbalanced Dataset"
 excerpt: "<div style='text-align: justify;'> 
 <b>Neural Network Pruning Algorithm</b>
 <ul>
-<li>Neural Collapse-Inspired Pruning: Preserves class separability during pruning, particularly for minority classes in imbalanced datasets.</li>
+<li>Neural Collapse-Inspired Pruning: Preserves class separability during pruning,in imbalanced datasets.</li>
 <li>Bias Mitigation & Robustness: Reduces bias towards majority classes and tests model robustness under noisy conditions.</li>
 <li>Experimental Results: Demonstrates effective accuracy retention and fairness, especially for minority classes in imbalanced data.</li>"
 collection: projects
@@ -35,7 +35,7 @@ permalink: /projects/project-2
 </ul>
 
 <h2>Proposed Solution</h2>
-<img src="/images/debiased_pruning/diagram.png" width="70%" alt="Result" />
+<img src="/images/debiased_pruning/diagram.png" width="90%" alt="Result" />
 
 
 
