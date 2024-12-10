@@ -21,33 +21,27 @@ This project is part of Software Hub for AnalytiKs, Technology and Innovation Hu
 
 <h2>Working</h2>
 
-<b>Step 1 - Login
+- Step 1 - Login
    
-   <img width="900" alt="login" src="https://github.com/user-attachments/assets/c38a4fd6-3113-46bf-a5f3-65e06c929553">
+   <img width="600" alt="login" src="/images/ROI_tool/step1.png">
 
    
-Step 2 - File Upload
+- Step 2 - File Upload
    
-   <img width="900" alt="step1" src="https://github.com/user-attachments/assets/9638e6bb-4390-488e-95bc-9b8804a8cfd9">
+   <img width="600" alt="step1" src="/images/ROI_tool/step2.png">
 
    
-Step 3 - ML Analytics
+- Step 3 - ML Analytics
  
-   <img width="900" alt="step2" src="https://github.com/user-attachments/assets/fa1b6a48-6a85-46ba-bcff-75d69898a585">
+   <img width="600" alt="step2" src="/images/ROI_tool/step3.png">
 
    
-Step 4 - ROI Analytics</b>
+- Step 4 - ROI Analytics
 
-   <img width="900" alt="step3" src="https://github.com/user-attachments/assets/c92bc692-40ee-4295-8a97-d51896e7c90f">
+   <img width="600" alt="step3" src="/images/ROI_tool/step4.png">
    
 <h2>Tech Stack</h2>
-<ul>
-   <li>Amazon Web Services</li>
-   <li>React JS/</li>
-   <li>Flask</li>
-</ul>
-
-#### Frontend
+<h3>Frontend</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -55,12 +49,12 @@ Step 4 - ROI Analytics</b>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-#### Backend
+<h3>Backend</h3>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### Deployment
+<h3>Deployment</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
