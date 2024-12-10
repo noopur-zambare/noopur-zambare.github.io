@@ -14,3 +14,8 @@ permalink: /projects/project-1
 ### Progetto - Project Management Platform
 
 - Tools: AWS, React JS, Flask, Node JS, MongoDB
+
+<video width="80%" controls>
+  <source src="/images/Progetto.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
