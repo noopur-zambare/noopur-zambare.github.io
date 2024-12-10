@@ -11,9 +11,9 @@ permalink: /projects/project-1
 
 ---
 
-### Progetto - Project Management Platform
+<h2>Tool for project management</h2>
 
-- Tools: AWS, React JS, Flask, Node JS, MongoDB
+- Tech Stack: AWS, React JS, Flask, Node JS, MongoDB
 
 <video width="100%" controls>
   <source src="/images/Progetto.mp4" type="video/mp4">
