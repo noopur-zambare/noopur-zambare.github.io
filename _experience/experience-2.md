@@ -22,7 +22,7 @@ This project is part of Software Hub for AnalytiKs, Technology and Innovation Hu
 <h2>Tech Stack</h2>
 <ul>
    <li>Amazon Web Services</li>
-   <li>React JS/<li>
+   <li>React JS/</li>
    <li>Flask</li>
 </ul>
 
