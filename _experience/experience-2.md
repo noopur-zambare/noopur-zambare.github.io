@@ -19,7 +19,7 @@ During my MITACS Globalink Research Internship at the University of Calgary, my 
 <h2>Deployed Tool</h2>
 This project is part of Software Hub for AnalytiKs, Technology and Innovation Hub (SHAKTI) laboratory at the University of Calgary where I worked as MITACS GRI. We have made it available to try upon request - <a href="https://roi.shaktilab.org/" target="_blank">AROhI: An Interactive Tool for Estimating ROI of Data Analytics</a>
 
-## Working
+<h2>Working</h2>
 
 <b>Step 1 - Login
    
@@ -46,6 +46,7 @@ Step 4 - ROI Analytics</b>
    <li>React JS/</li>
    <li>Flask</li>
 </ul>
+
 #### Frontend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -65,6 +66,6 @@ Step 4 - ROI Analytics</b>
 
 <h2>Demo</h2>
 <video width="100%" controls>
-  <source src="/images/roi_demo.mp4" type="video/mp4">
+  <source src="/images/ROI_tool/roi_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
