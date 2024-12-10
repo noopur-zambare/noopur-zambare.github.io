@@ -19,12 +19,49 @@ During my MITACS Globalink Research Internship at the University of Calgary, my 
 <h2>Deployed Tool</h2>
 This project is part of Software Hub for AnalytiKs, Technology and Innovation Hub (SHAKTI) laboratory at the University of Calgary where I worked as MITACS GRI. We have made it available to try upon request - <a href="https://roi.shaktilab.org/" target="_blank">AROhI: An Interactive Tool for Estimating ROI of Data Analytics</a>
 
+## Working
+
+<b>Step 1 - Login
+   
+   <img width="900" alt="login" src="https://github.com/user-attachments/assets/c38a4fd6-3113-46bf-a5f3-65e06c929553">
+
+   
+Step 2 - File Upload
+   
+   <img width="900" alt="step1" src="https://github.com/user-attachments/assets/9638e6bb-4390-488e-95bc-9b8804a8cfd9">
+
+   
+Step 3 - ML Analytics
+ 
+   <img width="900" alt="step2" src="https://github.com/user-attachments/assets/fa1b6a48-6a85-46ba-bcff-75d69898a585">
+
+   
+Step 4 - ROI Analytics</b>
+
+   <img width="900" alt="step3" src="https://github.com/user-attachments/assets/c92bc692-40ee-4295-8a97-d51896e7c90f">
+   
 <h2>Tech Stack</h2>
 <ul>
    <li>Amazon Web Services</li>
    <li>React JS/</li>
    <li>Flask</li>
 </ul>
+#### Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+#### Backend
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### Deployment
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h2>Demo</h2>
 <video width="100%" controls>
