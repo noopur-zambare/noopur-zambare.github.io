@@ -41,5 +41,5 @@ permalink: /projects/project-4
 </ul>
 
 <h2>Prediction</h2>
-<img src="/images/vehicle_detection.png" width="100%" alt="Result" />
+<img src="/images/vehicle_detection.png" width="50%" alt="Result" />
 
