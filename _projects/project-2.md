@@ -11,7 +11,7 @@ permalink: /projects/project-2
 
 ---
 <h2>Overview</h2>
-    <p>This project implements a novel pruning technique inspired by Neural Collapse (NC) geometry to enhance the robustness of pruned neural networks, particularly in imbalanced datasets. The proposed method utilizes the within-class scatter matrix to maintain class-separability during pruning, ensuring that minority class features are retained. This approach addresses the bias introduced by traditional pruning methods, which tend to favor majority classes in imbalanced data.</p>
+<p>This project implements a novel pruning technique inspired by Neural Collapse (NC) geometry to enhance the robustness of pruned neural networks, particularly in imbalanced datasets. The proposed method utilizes the within-class scatter matrix to maintain class-separability during pruning, ensuring that minority class features are retained. This approach addresses the bias introduced by traditional pruning methods, which tend to favor majority classes in imbalanced data.</p>
 
 <h2>Key Features</h2>
 <ul>
@@ -22,10 +22,10 @@ permalink: /projects/project-2
 </ul>
 
 <h2>Research Questions</h2>
-    <ul>
-        <li>Can Neural Collapse-inspired pruning improve the performance of pruned networks under imbalanced datasets?</li>
-        <li>Does this pruning method enhance the robustness of the model?</li>
-    </ul>
+<ul>
+    <li>Can Neural Collapse-inspired pruning improve the performance of pruned networks under imbalanced datasets?</li>
+    <li>Does this pruning method enhance the robustness of the model?</li>
+</ul>
 
 <h2>Contributions</h2>
 <ul>
@@ -35,7 +35,7 @@ permalink: /projects/project-2
 </ul>
 
 <h2>Proposed Solution</h2>
-<img src="/images/debiased_pruning/diagram.png" width="35%" alt="Result" />
+<img src="/images/debiased_pruning/diagram.png" width="70%" alt="Result" />
 
 
 
