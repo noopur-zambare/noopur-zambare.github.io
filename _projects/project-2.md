@@ -33,5 +33,8 @@ permalink: /projects/project-2
     <li>Evaluation of robustness and generalization in pruned networks.</li>
 </ul>
 
+<h2>Proposed Solution</h2>
+<img src="/images/debiased_pruning/diagram.png" width="35%" alt="Result" />
+
 
 
