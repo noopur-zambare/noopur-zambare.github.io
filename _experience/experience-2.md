@@ -13,8 +13,9 @@ excerpt: "<div style='text-align: justify;'>
 collection: experience
 ---
 
-I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary.
-During my MITACS Globalink Research Internship at the University of Calgary, my research primarily centered on exploring the ROI (Return on Investment) of Data Analytics. I leveraged Natural Language Processing (NLP) and requirements dependency extraction techniques to develop a comprehensive framework for estimating ROI. Furthermore, I conducted an extensive investigation comparing the effectiveness of active learning and passive learning approaches in enhancing the accuracy of prediction models. To ensure accessibility and scalability, I hosted the application on AWS EC2 and implemented CodePipeline to automate deployment processes. This research had a significant research focus, shedding light on potential ROI scenarios under various circumstances, offering valuable insights for resource management and data-driven prioritization within the business.
+<p>I was chosen amongst students from 16 countries to undertake a summer internship at the University of Calgary. During my MITACS Globalink Research Internship at the University of Calgary, my research primarily centered on exploring the ROI (Return on Investment) of Data Analytics.</p>
+<p>I leveraged Natural Language Processing (NLP) and requirements dependency extraction techniques to develop a comprehensive framework for estimating ROI. Furthermore, I conducted an extensive investigation comparing the effectiveness of active learning and passive learning approaches in enhancing the accuracy of prediction models. To ensure accessibility and scalability, I hosted the application on AWS EC2 and implemented CodePipeline to automate deployment processes.</p>
+<p>This research had a significant impact on analysing potential ROI scenarios under various circumstances, offering valuable insights for resource management and data-driven prioritization within the business.</p>
 
 <h2>Deployed Tool</h2>
 This project is part of Software Hub for AnalytiKs, Technology and Innovation Hub (SHAKTI) laboratory at the University of Calgary where I worked as MITACS GRI. We have made it available to try upon request - <a href="https://roi.shaktilab.org/" target="_blank">AROhI: An Interactive Tool for Estimating ROI of Data Analytics</a>
@@ -23,22 +24,22 @@ This project is part of Software Hub for AnalytiKs, Technology and Innovation Hu
 
 - Step 1 - Login
    
-   <img width="600" alt="login" src="/images/ROI_tool/step1.png">
+   <img width="400" alt="login" src="/images/ROI_tool/step1.png">
 
    
 - Step 2 - File Upload
    
-   <img width="600" alt="step1" src="/images/ROI_tool/step2.png">
+   <img width="400" alt="step1" src="/images/ROI_tool/step2.png">
 
    
 - Step 3 - ML Analytics
  
-   <img width="600" alt="step2" src="/images/ROI_tool/step3.png">
+   <img width="400" alt="step2" src="/images/ROI_tool/step3.png">
 
    
 - Step 4 - ROI Analytics
 
-   <img width="600" alt="step3" src="/images/ROI_tool/step4.png">
+   <img width="400" alt="step3" src="/images/ROI_tool/step4.png">
    
 <h2>Tech Stack</h2>
 <h3>Frontend</h3>
