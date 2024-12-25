@@ -1,16 +1,13 @@
 ---
-title: "AutomationEdge, India"
+title: "Amazon ML Summer School’22"
 excerpt: "<div style='text-align: justify;'>
-<b>Machine Learning Internship | India | June 2022 - July 2022</b> 
+<b>Amazon | Apprenticeship | July 2022 </b>
 <ul>
-<li>Employed Curriculum Learning to progressively present training samples for effective learning.</li>
-<li>Enhanced comprehension of textual customer complaints by implementing NER and POS tagging methods</li>
-<li>Impact: Improved text analytics and Intent Recognition Algorithms</li>
-<li>Tech stack: Machine Learning, Deep learning, NLP, Spacy, Textacy</li>
-"
-
-   
+<li>Competed with the engineering students in India in programming skills, logical reasoning, mathematics and machine
+learning assessments and was selected among the top few students for this training session</li>
+<li>Hands-on: Deep Neural Networks, Sequential Models, Unsupervised Learning, Causal Inference & Reinforcement Learnin</li>
+    "
 collection: experience
 ---
 
-During my Machine Learning Internship at Automation Edge, I focused significantly on research-driven initiatives. I was in charge of creating word embeddings and text representations from customer complaints in order to improve the performance of Natural Language Processing (NLP) models. To improve the comprehension of textual client complaints, I used Named Entity Recognition (NER) and Part-of-Speech (POS) tagging approaches. As a result of these efforts, the model effectively predicted intents for a dataset of bank-related customer complaints. This project used a tech stack that included Machine Learning, Deep Learning, NLP, Spacy, and Textacy, demonstrating my dedication to cutting-edge technology and new solutions in machine learning and NLP.
+I competed with engineering students in India across diverse domains, showcasing proficiency in programming skills, logical reasoning, mathematics, and machine learning assessments. My performance stood out among my peers, earning me a coveted spot among the top participants selected for an exclusive training session. During this hands-on experience, I delved into advanced topics such as Deep Neural Networks, Sequential Models, Unsupervised Learning, Causal Inference, and Reinforcement Learning. This opportunity not only sharpened my technical acumen but also provided a platform to apply theoretical knowledge to real-world scenarios, reinforcing my commitment to excellence in the field of machine learning and artificial intelligence.
