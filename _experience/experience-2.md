@@ -4,8 +4,8 @@ excerpt: "<div style='text-align: justify;'>
 <b>Graduate Teaching Assistant - CMPUT 200 | Sept 2024 - Dec 2024 </b>
 
 <ul>
-<li>Worked as a Teaching Assistant of CMPUT 200 - Ethics of Data Science and Artificial Intelligence (Fall 2024)</li>
-<li>Conducted office hours, labs, grading assignments and exams, solving student queries, etc</li>
+<li>Worked as a Teaching Assistant of CMPUT 200 - Ethics of Data Science and Artificial Intelligence (Fall 2024).</li>
+<li>Conducted office hours, labs, grading assignments and exams, solving student queries, etc.</li>
 </ul>
 "
 collection: experience
