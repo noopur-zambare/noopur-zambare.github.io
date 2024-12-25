@@ -1,7 +1,7 @@
 ---
 title: "University of Alberta"
 excerpt: "<div style='text-align: justify;'>
-<b>Graduate Teaching Assistant - CMPUT 200 </b>
+<b>Graduate Teaching Assistant - CMPUT 200 | Sept 2024 - Dec 2024 </b>
 
 <ul>
 <li>Working as a Teaching Assistant of CMPUT 200 - Ethics of Data Science and Artificial Intelligence (Fall 2024)</li>
