@@ -1,7 +1,7 @@
 ---
 title: "University of Alberta"
 excerpt: "<div style='text-align: justify;'>
-<b>Graduate Research Fellow and Teaching Assistant | Jan 2025 - ongoing </b>
+<b>Graduate Research Assistant Fellow and Teaching Assistant | Jan 2025 - ongoing </b>
 
 <ul>
 <li>Conducting research on Fairness in Machine Learning Algorithms.</li>
