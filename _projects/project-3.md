@@ -21,4 +21,4 @@ permalink: /projects/project-3
 - Langchain + Google Palm: LLM based Q&A
 - Streamlit: UI
 - Huggingface instructor embeddings: Text embeddings
-- FAISS: Vector databse
+- FAISS: Vector Database
