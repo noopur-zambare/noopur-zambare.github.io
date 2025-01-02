@@ -19,7 +19,8 @@ I have been captivated by the intersection of technology and engineering through
 <ul>
 <li>Machine Learning</li>
 <li>Deep Learning</li>
-<li>Return on Investment for Machine Learning Algorithms</li>
+<li>Bias and Fairness in ML Algorithms</li>
+<li>Applied ML and building scalable solutions</li>
 </ul>
 
 During my time as a student, I got opportunities to expand my knowledge and gain practical experience. Such opportunities included my role as a Data Science and Machine Learning intern. This experience allowed me to work on real-world projects, collaborating with a team to analyse and extract insights from large datasets. It was during these internships that I discovered my passion for using Machine Learning and Deep Learning techniques to uncover patterns and make data-driven predictions. I am totally in for all the project involving Dev + ML!
