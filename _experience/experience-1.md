@@ -12,7 +12,7 @@ collection: experience
 ---
 
 <ul>
-    <li>Conducting research on Fairness in Machine Learning Algorithms.</li>
+    <li>Conducting research on Bias Mitigiation and Fairness in Machine Learning Algorithms.</li>
     <li>Graduate Teaching Assistant for CMPUT 200 - Ethics of Data Science and Artificial Intelligence.</li>
     <li>Conducting office hours, led labs, and addressing student queries.</li>   
 </ul>
