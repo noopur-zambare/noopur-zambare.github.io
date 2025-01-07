@@ -17,8 +17,8 @@ I have been captivated by the intersection of technology and engineering through
 
 <b>My current areas of interest include:</b>
 <ul>
-<li>Machine Learning</li>
-<li>Deep Learning</li>
+<li>ML and DL</li>
+<li>Robustness in Foundation Models</li>
 <li>Bias and Fairness in ML Algorithms</li>
 <li>Applied ML and building scalable solutions</li>
 </ul>
@@ -30,7 +30,5 @@ I was awarded the  <a href="https://www.mitacs.ca/en/programs/globalink/globalin
 <br/><br/>
   
   
-
-
 
 </div>
