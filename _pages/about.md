@@ -12,6 +12,7 @@ I am a second-year MSc student in the Department of Computing Science at the Uni
 <br/><br/>
 My academic interests lie at the intersection of healthcare, Natural Language Processing (NLP), and Deep Learning, with a focus on building scalable, reliable and responsible AI systems for clinical data. I am motivated by the challenge of using data-driven methods to solve real-world problems in healthcare while ensuring privacy, safety, and ethical use of data. My background has equipped me with strong skills in problem-solving, analytical reasoning, algorithms, and statistical modeling.
 
+<br/><br/>
 
 <b>I like exploring ML algorithms and investigating the extent to which they can be made fair and bias-free.</b>
 
