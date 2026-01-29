@@ -7,7 +7,7 @@ excerpt: "<div style='text-align: justify;'>
 <li>Working on designing efficient, fair de-identification algorithms for clinical text.</li>
 <li>Developing scalable inference pipelines optimized for processing millions of healthcare notes.</li>
 <li>Developing clinical information retention metrics using BERT for de-identified medical text.</li>
-</ul>
+"
 
 collection: experience
 ---

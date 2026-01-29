@@ -7,7 +7,7 @@ excerpt: "<div style='text-align: justify;'>
 <li>Translated business problems into ML problem statements and solution scopes.</li>
 <li>Conducted research and literature reviews to assess feasibility and risks.</li>
 <li>Supported solution validation, focusing on interpretability and deployment.</li>
-</ul>
+"
 
 collection: experience
 ---
