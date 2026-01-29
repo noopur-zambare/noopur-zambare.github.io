@@ -1,19 +1,21 @@
 ---
-title: "University of Alberta"
+title: "Graduate Research Assistant Fellow, University of Alberta"
 excerpt: "<div style='text-align: justify;'>
-<b>Graduate Teaching Assistant | Jan 2025 - ongoing </b>
+<b>Phair Lab | May 2025 - ongoing </b>
 
 <ul>
-<li>Working as a Teaching Assistant of CMPUT 200 - Ethics of Data Science and Artificial Intelligence (Winter 2025).</li>
+<li>Working on designing efficient, fair de-identification algorithms for clinical text.</li>
+<li>Developing scalable inference pipelines optimized for processing millions of healthcare notes.</li>
+<li>Developing clinical information retention metrics using BERT for de-identified medical text.</li>
 </ul>
 
 collection: experience
 ---
 
 <ul>
-    <li>Conducting research on Bias Mitigiation and Fairness in Machine Learning Algorithms.</li>
-    <li>Graduate Teaching Assistant for CMPUT 200 - Ethics of Data Science and Artificial Intelligence.</li>
-    <li>Conducting office hours, led labs, and addressing student queries.</li>   
+    <li>Working on designing efficient, fair de-identification algorithms for clinical text.</li>
+    <li>Developing scalable inference pipelines optimized for processing millions of healthcare notes.</li>
+    <li>Developing clinical information retention metrics using BERT for de-identified medical text.</li>
 </ul>
 
 
