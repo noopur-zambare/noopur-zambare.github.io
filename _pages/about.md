@@ -46,7 +46,7 @@ A multi-agent system for medical reasoning and diagnosis using LLM-based coordin
 </video>
 
 <h3>Return on Investment Tool</h3>
-<p>A machine learning–based decision support tool that extracts requirements dependencies and evaluates ROI of analytics solutions to guide cost–benefit trade-offs in technology adoption.
+<p>A machine learning-based decision support tool that extracts requirements dependencies and evaluates ROI of analytics solutions to guide cost–benefit trade-offs in technology adoption.
 </p>
 <video width="80%" controls style="border-radius: 12px; overflow: hidden;">
   <source src="{{ base_path }}/images/ROI_tool/roi_demo.mp4" type="video/mp4">
