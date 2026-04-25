@@ -17,7 +17,6 @@ redirect_from:
 <section class="page__content" itemprop="text">
 
 <p>
-I am a MSc student in the Department of Computing Science at the University of 
 AI Researcher pursuing an M.Sc. in Computer Science at the University of Alberta (Canada), specializing in building and deploying language models, clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). Completed undergraduate studies (B.Tech.) at IIT Jodhpur (India).
 </p>
 <p>
