@@ -6,4 +6,5 @@ date: 2026-01-03
 venue: 'Findings of The 19th Conference of the European Chapter of the Association for Computational Linguistics 2026'
 paperurl: "https://aclanthology.org/2026.findings-eacl.222.pdf"
 citation: Noopur Zambare, Kiana Aghakasiri, Carissa Lin, Carrie Ye, Ross Mitchell, Mohamed Abdalla
+category: conferences
 ---
