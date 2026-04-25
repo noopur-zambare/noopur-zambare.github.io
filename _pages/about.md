@@ -17,7 +17,7 @@ redirect_from:
 <section class="page__content" itemprop="text">
 
 <p>
-I am a second-year MSc student in the Department of Computing Science at the University of 
+I am a MSc student in the Department of Computing Science at the University of 
 AI Researcher pursuing an M.Sc. in Computer Science at the University of Alberta (Canada), specializing in building and deploying language models, clinical NLP, Agentic AI, and retrieval-augmented generation (RAG). Completed undergraduate studies (B.Tech.) at IIT Jodhpur (India).
 </p>
 <p>
@@ -41,10 +41,6 @@ I build AI systems that move beyond research prototypes into practical, scalable
 <p>
 A multi-agent system for medical reasoning and diagnosis using LLM-based coordination between specialized agents.
 </p>
-<iframe width="100%" height="400"
-src="images/medical-chatbot.mov"
-title="Multi-Agent Medical Diagnosis Chatbot"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
+<video width="80%" controls>
+  <source src="{{ base_path }}/images/medical-chatbot.mp4" type="video/mp4">
+</video>
