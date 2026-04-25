@@ -1,0 +1,29 @@
+<li>
+  <p>
+    <strong>{{ post.title }}</strong><br>
+
+    {% if post.authors %}
+      {% assign authors = post.authors | replace: "Mohammad Tavakoli", "<strong>Mohammad Tavakoli</strong>" %}
+      {{ authors | raw }}<br>
+    {% elsif post.citation %}
+      {% assign citation = post.citation | replace: "Mohammad Tavakoli", "<strong>Mohammad Tavakoli</strong>" %}
+      {{ citation | raw }}<br>
+    {% endif %}
+
+    {% if post.venue %}
+      <strong>{{ post.venue }}</strong>.<br>
+    {% endif %}
+
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">[Paper]</a>
+    {% endif %}
+    {% if post.codeurl %}
+      {% if post.paperurl %} / {% endif %}
+      <a href="{{ post.codeurl }}">[Code]</a>
+    {% endif %}
+    {% if post.dataurl %}
+      {% if post.paperurl or post.codeurl %} / {% endif %}
+      <a href="{{ post.dataurl }}">[Data]</a>
+    {% endif %}
+  </p>
+</li>

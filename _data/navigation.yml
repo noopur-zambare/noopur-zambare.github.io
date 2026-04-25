@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /research/
   
   - title: "Experience"
@@ -8,8 +8,5 @@ main:
 
   - title: "Projects"
     url: /projects/    
-    
-  - title: "Blogs"
-    url: /blogs/
     
     
