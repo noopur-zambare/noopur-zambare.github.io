@@ -11,7 +11,7 @@ redirect_from:
 <div class="page__inner-wrap">
 
 <header>
-  <h1 class="page__title" itemprop="headline">About me</h1>
+  <h1 class="page__title" itemprop="headline">About Me</h1>
 </header>
 
 <section class="page__content" itemprop="text">
@@ -26,3 +26,25 @@ Proven research experience in LLM-based systems, including de-identification, ev
 <p>
 Strong focus on building agentic AI systems and retrieval-augmented generation (RAG) pipelines, with an emphasis on reliability and responsible AI. Experience developing and deploying scalable ML systems on AWS, applying NLP to build chatbots, Docker, Vector Database and delivering AI-driven solutions to real-world business problems.
 </p>
+
+<div class="page__inner-wrap">
+
+<header>
+  <h1 class="page__title" itemprop="headline">What I build</h1>
+</header>
+
+<section class="page__content" itemprop="text">
+I build AI systems that move beyond research prototypes into practical, scalable tools, with a focus on reliability, interpretability, and real-world impact.
+
+<h3>Multi-Agent Medical Diagnosis Chatbot</h3>
+
+<p>
+A multi-agent system for medical reasoning and diagnosis using LLM-based coordination between specialized agents.
+</p>
+<iframe width="100%" height="400"
+src="images/medical-chatbot.mov"
+title="Multi-Agent Medical Diagnosis Chatbot"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
