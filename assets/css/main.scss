@@ -1,12 +1,6 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -41,3 +35,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.archive__item-title a,
+.archive__item-title a:visited,
+.archive__item-title a:hover,
+.archive__item-title a:focus,
+.archive__item-title a:active {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  color: inherit !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
