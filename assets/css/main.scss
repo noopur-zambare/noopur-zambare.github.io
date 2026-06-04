@@ -36,18 +36,19 @@
     "vendor/font-awesome/brands"
 ;
 
-.archive__item-title a,
-.archive__item-title a:visited,
-.archive__item-title a:hover,
-.archive__item-title a:focus,
-.archive__item-title a:active {
+.archive__item a,
+.archive__item a:visited,
+.archive__item a:hover,
+.archive__item a:focus {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
-  color: inherit !important;
+  background-image: none !important;
 }
 
-a:hover {
-  text-decoration: none !important;
-  border-bottom: none !important;
+/* remove underline pseudo-elements used by theme */
+.archive__item a::after,
+.archive__item a::before {
+  display: none !important;
+  content: none !important;
 }
