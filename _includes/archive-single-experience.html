@@ -90,3 +90,24 @@
 
   </article>
 </div>
+
+<style>
+.archive__item a,
+.archive__item a:visited,
+.archive__item a:hover,
+.archive__item a:focus,
+.archive__item a:active {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+  color: inherit !important;
+}
+
+/* remove theme hover underline tricks */
+.archive__item a::after,
+.archive__item a::before {
+  display: none !important;
+  content: none !important;
+}
+</style>
