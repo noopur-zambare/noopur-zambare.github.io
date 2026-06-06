@@ -25,6 +25,10 @@ author_profile: true
 
   </li>
 
+  {% unless forloop.last %}
+    <hr style="margin: 6px 0; border: 0; border-top: 1px solid #eee;">
+  {% endunless %}
+
 {% endfor %}
 
 </ul>
