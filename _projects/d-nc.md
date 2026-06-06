@@ -46,4 +46,17 @@ This project implements a novel pruning technique inspired by Neural Collapse (N
 
 <h2>Proposed Solution</h2>
 
-<img src="/images/debiased_pruning/diagram.png" width="90%" alt="Proposed Solution Diagram">
+<!-- IMAGE WITH BORDER -->
+<div style="margin-top: 10px;">
+  <img src="/images/debiased_pruning/diagram.png"
+       alt="Proposed Solution Diagram"
+       style="
+         width: 90%;
+         display: block;
+         margin: 0 auto;
+         border: 1px solid #ddd;
+         border-radius: 4px;
+         padding: 2px;
+         background: #fff;
+       ">
+</div>
