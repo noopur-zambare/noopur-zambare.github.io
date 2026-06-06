@@ -42,29 +42,30 @@
     "vendor/font-awesome/brands"
 ;
 
-/* =========================
-   EXPERIENCE SPACING FIX
-   ========================= */
+/* =========================================
+   EXPERIENCE SECTION SPACING (FIXED + SAFE)
+   ========================================= */
+
+/* spacing between each experience block */
+.archive__item {
+  margin-bottom: 14px !important;
+}
 
 /* HR spacing */
 .page__content hr {
-  margin: 6px 0 !important;
+  margin: 8px 0 !important;
   border: none !important;
   border-top: 1px solid #eee !important;
 }
 
 /* bullet list spacing */
 .archive__item-excerpt ul {
-  margin: 4px 0 !important;
+  margin: 6px 0 !important;
   padding-left: 18px !important;
 }
 
+/* bullet items */
 .archive__item-excerpt li {
-  margin: 2px 0 !important;
-  line-height: 1.35 !important;
-}
-
-/* spacing between experience blocks */
-.archive__item {
-  margin-bottom: 12px !important;
+  margin: 3px 0 !important;
+  line-height: 1.4 !important;
 }
