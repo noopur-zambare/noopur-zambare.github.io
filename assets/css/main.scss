@@ -41,11 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* =========================
+   EXPERIENCE SPACING FIX
+   ========================= */
+
+/* HR spacing */
 .page__content hr {
   margin: 6px 0 !important;
+  border: none !important;
   border-top: 1px solid #eee !important;
 }
 
+/* bullet list spacing */
 .archive__item-excerpt ul {
   margin: 4px 0 !important;
   padding-left: 18px !important;
@@ -56,6 +64,7 @@
   line-height: 1.35 !important;
 }
 
+/* spacing between experience blocks */
 .archive__item {
   margin-bottom: 12px !important;
 }
