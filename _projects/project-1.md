@@ -11,7 +11,7 @@ excerpt: "<div style='text-align: justify;'>
 </ul>
 </div>"
 
-image: /images/Progetto.mp4
+video: /images/Progetto.mp4
 ---
 
 <h2>Tool for project management</h2>
