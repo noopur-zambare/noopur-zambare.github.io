@@ -7,6 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
+{% assign sorted_projects = site.projects | sort: "date" | reverse %}
+
+<ul style="list-style: none; padding-left: 0; margin-left: 0;">
+
+{% for post in sorted_projects %}
+
+  <li style="margin-bottom: 18px;">
+
+    <h3 style="margin: 0 0 3px 0; font-size: 1.1em; font-weight: 600;">
+      <a href="{{ base_path }}{{ post.url }}" style="text-decoration: none; color: inherit;">
+        {{ post.title }}
+      </a>
+    </h3>
+
+    <div style="margin: 0; line-height: 1.25;">
+      {{ post.excerpt }}
+    </div>
+
+  </li>
+
+  {% unless forloop.last %}
+    <hr style="margin: 10px 0; border: 0; border-top: 1px solid #eee;">
+  {% endunless %}
+
 {% endfor %}
+
+</ul>
