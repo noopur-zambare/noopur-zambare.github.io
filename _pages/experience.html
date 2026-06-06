@@ -9,24 +9,43 @@ author_profile: true
 
 {% assign sorted_experience = site.experience | sort: "date" | reverse %}
 
+<div style="max-width: 800px; margin: 0 auto; font-family: Arial;">
+
 {% for post in sorted_experience %}
 
-<article style="margin-bottom: 14px;">
+  <div style="
+    padding: 4px 0;
+    border-left: 3px solid black;
+    padding-left: 10px;
+    margin-bottom: 6px;
+  ">
 
-  <h2 style="margin-bottom: 2px;">
-    {{ post.title }}
-  </h2>
+    <div style="
+      font-weight: 800;
+      font-size: 16px;
+      margin: 0;
+      color: black;
+    ">
+      {{ post.title }}
+    </div>
 
-  <div style="margin-bottom: 4px; line-height: 1.45;">
-    {{ post.excerpt }}
+    <div style="
+      font-size: 12px;
+      line-height: 1.2;
+      margin: 0;
+    ">
+      {{ post.excerpt }}
+    </div>
+
   </div>
 
-</article>
-
-<hr style="
-  border: 0;
-  border-top: 1px solid #eee;
-  margin: 6px 0;
-">
+  <div style="
+    height: 1px;
+    background: black;
+    margin: 4px 0;
+    opacity: 0.3;
+  "></div>
 
 {% endfor %}
+
+</div>
