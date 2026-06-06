@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="archive">
-
 {% assign sorted_experience = site.experience | sort: "date" | reverse %}
 
 {% for post in sorted_experience %}
@@ -28,5 +26,3 @@ author_profile: true
   <hr style="border: 0; border-top: 1px solid #eee; margin: 25px 0;">
 
 {% endfor %}
-
-</div>
