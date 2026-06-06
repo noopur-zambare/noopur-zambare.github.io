@@ -10,5 +10,15 @@ author_profile: true
 {% assign sorted_experience = site.experience | sort: "date" | reverse %}
 
 {% for post in sorted_experience %}
-  {% include archive-single-experience.html %}
+
+  <h2 style="margin-bottom: 5px;">
+    {{ post.title }}
+  </h2>
+
+  <div style="margin-bottom: 10px;">
+    {{ post.excerpt }}
+  </div>
+
+  <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+
 {% endfor %}
