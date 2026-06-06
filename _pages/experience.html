@@ -7,18 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="archive">
+
 {% assign sorted_experience = site.experience | sort: "date" | reverse %}
 
 {% for post in sorted_experience %}
 
-  <h2 style="margin-bottom: 5px;">
-    {{ post.title }}
-  </h2>
+  <article style="margin-bottom: 25px;">
 
-  <div style="margin-bottom: 10px;">
-    {{ post.excerpt }}
-  </div>
+    <h2 style="margin-bottom: 5px;">
+      {{ post.title }}
+    </h2>
 
-  <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+    <div>
+      {{ post.excerpt }}
+    </div>
+
+  </article>
+
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 25px 0;">
 
 {% endfor %}
+
+</div>
