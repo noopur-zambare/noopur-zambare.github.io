@@ -1,68 +1,62 @@
-<!-- IMAGE WITH EXPAND BUTTON -->
-<div style="margin-top: 10px; position: relative; width: 90%; margin-left: auto; margin-right: auto;">
+---
+title: "Dense Network Pruning using Neural Collapse under Imbalanced Dataset"
+collection: projects
+permalink: /projects/project-2
 
-  <img id="projectImage"
-       src="/images/debiased_pruning/diagram.png"
+image: /images/debiased_pruning/diagram.png
+
+excerpt: "<div style='text-align: justify;'> 
+<b>Neural Network Pruning Algorithm</b>
+<ul>
+<li>Neural Collapse-Inspired Pruning: Preserves class separability during pruning in imbalanced datasets.</li>
+<li>Bias Mitigation & Robustness: Reduces bias towards majority classes and tests model robustness under noisy conditions.</li>
+<li>Experimental Results: Demonstrates effective accuracy retention and fairness, especially for minority classes in imbalanced data.</li>
+</ul>
+</div>"
+---
+
+<h2>Overview</h2>
+
+<p>
+This project implements a novel pruning technique inspired by Neural Collapse (NC) geometry to enhance the robustness of pruned neural networks, particularly in imbalanced datasets. The proposed method utilizes the within-class scatter matrix to maintain class-separability during pruning, ensuring that minority class features are retained. This approach addresses the bias introduced by traditional pruning methods, which tend to favor majority classes in imbalanced data.
+</p>
+
+<h2>Key Features</h2>
+
+<ul>
+    <li>Neural Collapse-Inspired Pruning: A pruning technique using the within-class scatter matrix to preserve class-separability in the pruned network.</li>
+    <li>Bias Mitigation: Reduces bias towards majority classes in imbalanced datasets by maintaining minority class features.</li>
+    <li>Robustness Testing: Includes robustness testing against noisy data using perturbation sensitivity.</li>
+</ul>
+
+<h2>Research Questions</h2>
+
+<ul>
+    <li>Can Neural Collapse-inspired pruning improve performance under imbalanced datasets?</li>
+    <li>Does this pruning method enhance model robustness?</li>
+</ul>
+
+<h2>Contributions</h2>
+
+<ul>
+    <li>Analysis of pruned neural network performance under different pruning techniques.</li>
+    <li>Introduction of a geometry-based pruning algorithm inspired by Neural Collapse.</li>
+    <li>Evaluation of robustness and generalization in pruned networks.</li>
+</ul>
+
+<h2>Proposed Solution</h2>
+
+<!-- IMAGE WITH BORDER -->
+<div style="margin-top: 10px;">
+  <img src="/images/debiased_pruning/diagram.png"
        alt="Proposed Solution Diagram"
        style="
-         width: 100%;
+         width: 90%;
          display: block;
+         margin: 0 auto;
          border: 1px solid #ddd;
          border-radius: 4px;
          padding: 2px;
          background: #fff;
        ">
-
-  <!-- EXPAND ICON -->
-  <div onclick="openImageModal()"
-       style="
-         position: absolute;
-         top: 8px;
-         right: 8px;
-         background: rgba(0,0,0,0.6);
-         color: white;
-         padding: 6px 8px;
-         border-radius: 4px;
-         cursor: pointer;
-         font-size: 14px;
-       ">
-    ⤢
-  </div>
-
 </div>
-
-<!-- FULLSCREEN MODAL -->
-<div id="imageModal"
-     onclick="closeImageModal()"
-     style="
-       display: none;
-       position: fixed;
-       z-index: 9999;
-       left: 0;
-       top: 0;
-       width: 100%;
-       height: 100%;
-       background-color: rgba(0,0,0,0.85);
-       justify-content: center;
-       align-items: center;
-     ">
-
-  <img src="/images/debiased_pruning/diagram.png"
-       style="
-         max-width: 90%;
-         max-height: 90%;
-         border-radius: 6px;
-         box-shadow: 0 0 20px rgba(0,0,0,0.5);
-       ">
-
-</div>
-
-<script>
-function openImageModal() {
-  document.getElementById("imageModal").style.display = "flex";
-}
-
-function closeImageModal() {
-  document.getElementById("imageModal").style.display = "none";
-}
-</script>
