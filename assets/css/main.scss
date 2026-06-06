@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.page__content hr {
+  margin: 6px 0 !important;
+  border-top: 1px solid #eee !important;
+}
+
+.archive__item-excerpt ul {
+  margin: 4px 0 !important;
+  padding-left: 18px !important;
+}
+
+.archive__item-excerpt li {
+  margin: 2px 0 !important;
+  line-height: 1.35 !important;
+}
+
+.archive__item {
+  margin-bottom: 12px !important;
+}
