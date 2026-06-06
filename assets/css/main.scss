@@ -1,13 +1,6 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -42,29 +35,25 @@
     "vendor/font-awesome/brands"
 ;
 
-/* =========================================
-   EXPERIENCE SECTION SPACING (FIXED + SAFE)
-   ========================================= */
+/* =========================
+   EXPERIENCE CLEAN CV STYLE
+   ========================= */
 
-/* spacing between each experience block */
 .archive__item {
   margin-bottom: 14px !important;
 }
 
-/* HR spacing */
 .page__content hr {
   margin: 8px 0 !important;
   border: none !important;
   border-top: 1px solid #eee !important;
 }
 
-/* bullet list spacing */
 .archive__item-excerpt ul {
   margin: 6px 0 !important;
   padding-left: 18px !important;
 }
 
-/* bullet items */
 .archive__item-excerpt li {
   margin: 3px 0 !important;
   line-height: 1.4 !important;
