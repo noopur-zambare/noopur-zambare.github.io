@@ -13,22 +13,48 @@ author_profile: true
 
 {% for post in sorted_projects %}
 
-  <li style="margin-bottom: 18px;">
+  <li style="margin-bottom: 22px;">
 
-    <h3 style="margin: 0 0 3px 0; font-size: 1.1em; font-weight: 600;">
-      <a href="{{ base_path }}{{ post.url }}" style="text-decoration: none; color: inherit;">
-        {{ post.title }}
-      </a>
-    </h3>
+    <div style="display: flex; gap: 16px; align-items: flex-start;">
 
-    <div style="margin: 0; line-height: 1.25;">
-      {{ post.excerpt }}
+      <!-- LEFT: TEXT -->
+      <div style="flex: 1;">
+
+        <h3 style="margin: 0 0 3px 0; font-size: 1.1em; font-weight: 600;">
+          <a href="{{ base_path }}{{ post.url }}" style="text-decoration: none; color: inherit;">
+            {{ post.title }}
+          </a>
+        </h3>
+
+        <div style="margin: 0; line-height: 1.25;">
+          {{ post.excerpt }}
+        </div>
+
+      </div>
+
+      <!-- RIGHT: IMAGE / VIDEO -->
+      <div style="width: 40%;">
+
+        {% if post.header.teaser %}
+          <img src="{{ post.header.teaser }}" style="width: 100%; border-radius: 6px;">
+
+        {% elsif post.video %}
+          <video width="100%" controls style="border-radius: 6px;">
+            <source src="{{ post.video }}" type="video/mp4">
+          </video>
+
+        {% elsif post.image %}
+          <img src="{{ post.image }}" style="width: 100%; border-radius: 6px;">
+        {% endif %}
+
+      </div>
+
     </div>
 
   </li>
 
   {% unless forloop.last %}
-    <hr style="margin: 10px 0; border: 0; border-top: 1px solid #eee;">
+    <hr style="margin: 12px 0; border: 0; border-top: 1px solid #eee;">
   {% endunless %}
 
 {% endfor %}
