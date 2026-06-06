@@ -4,7 +4,7 @@ excerpt: "<div style='text-align: justify;'>
 
 <b>Phair Lab, University of Alberta | May 2025 – Present</b>
 
-<ul style='margin:2px 0; padding-left:16px;'>
+<ul style='margin:6px 0 2px 0; padding-left:16px;'>
 
 <li style='margin:0; line-height:1.15;'>
 Designed and evaluated LLM-based de-identification systems for electronic health records.
