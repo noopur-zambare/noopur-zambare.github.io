@@ -9,22 +9,22 @@ author_profile: true
 
 {% assign sorted_experience = site.experience | sort: "date" | reverse %}
 
-<div class="page__content">
+<ul style="list-style: none; padding-left: 0; margin-left: 0;">
 
 {% for post in sorted_experience %}
 
-  <div style="margin-bottom: 12px;">
+  <li style="margin-bottom: 10px;">
 
     <h2 style="margin: 0 0 3px 0;">
       {{ post.title }}
     </h2>
 
-    <div style="margin: 0;">
+    <div style="margin: 0; line-height: 1.25;">
       {{ post.excerpt }}
     </div>
 
-  </div>
+  </li>
 
 {% endfor %}
 
-</div>
+</ul>
