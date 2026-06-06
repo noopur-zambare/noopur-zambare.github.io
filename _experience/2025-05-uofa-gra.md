@@ -2,7 +2,9 @@
 title: "Graduate Research Assistant Fellow"
 excerpt: "<div style='text-align: justify;'>
 
-<b>Phair Lab, University of Alberta | May 2025 – Present</b>
+<div style="font-size: 1.25em; font-weight: 600; margin-bottom: 4px;">
+  Phair Lab, University of Alberta | May 2025 - Present
+</div>
 
 <ul style='margin:10px 0 2px 0; padding-left:16px;'>
 
