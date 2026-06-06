@@ -11,18 +11,22 @@ author_profile: true
 
 {% for post in sorted_experience %}
 
-  <article style="margin-bottom: 25px;">
+<article style="margin-bottom: 14px;">
 
-    <h2 style="margin-bottom: 5px;">
-      {{ post.title }}
-    </h2>
+  <h2 style="margin-bottom: 2px;">
+    {{ post.title }}
+  </h2>
 
-    <div>
-      {{ post.excerpt }}
-    </div>
+  <div style="margin-bottom: 4px; line-height: 1.45;">
+    {{ post.excerpt }}
+  </div>
 
-  </article>
+</article>
 
-  <hr style="border: 0; border-top: 1px solid #eee; margin: 25px 0;">
+<hr style="
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 6px 0;
+">
 
 {% endfor %}
