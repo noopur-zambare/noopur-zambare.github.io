@@ -10,7 +10,7 @@ excerpt: "<div style='text-align: justify;'>
 <li style='margin: 2px 0;'>Designed a Neural Collapse-inspired pruning framework to improve efficiency under data imbalance.</li>
 <li style='margin: 2px 0;'>Achieved 95% accuracy up to 60% pruning, while preserving minority-class performance.</li>
 <li>
-<img src='[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)'/>
+<img src='https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white'/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=keras&logoColor=white"/>
 </li>
 </ul>
