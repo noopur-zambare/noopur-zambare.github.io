@@ -6,7 +6,6 @@ permalink: /projects/project-4
 image: /images/debiased_pruning/diagram.png
 
 excerpt: "<div style='text-align: justify;'> 
-<b>Neural Network Pruning Algorithm</b>
 <ul>
 <li>Neural Collapse-Inspired Pruning: Preserves class separability during pruning in imbalanced datasets.</li>
 <li>Bias Mitigation & Robustness: Reduces bias towards majority classes and tests model robustness under noisy conditions.</li>

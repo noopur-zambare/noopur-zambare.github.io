@@ -1,10 +1,9 @@
 ---
-title: "RetailAgent W - Agentic Retail Analytics System"
+title: "RetailAgent - Agentic Retail Analytics System"
 collection: projects
 permalink: /projects/project-1
 
 excerpt: "<div style='text-align: justify;'>
-<b>Agentic retail analytics system for natural language querying over Statistics Canada data</b>
 <ul>
 <li>Developed an agentic analytics system enabling natural language queries over structured Statistics Canada datasets.</li>
 <li>Integrated SQLite, ChromaDB, and Gemini to support retrieval-augmented reasoning and semantic search.</li>

@@ -1,10 +1,9 @@
 ---
-title: "Hospital Assistant MCP Server W - Clinical Decision Support System"
+title: "Hospital Assistant MCP Server"
 collection: projects
 permalink: /projects/project-2
 
 excerpt: "<div style='text-align: justify;'>
-<b>Multi-tool MCP server for hospital workflow automation and clinical decision support</b>
 <ul>
 <li>Built an MCP server powering a multi-tool LLM agent for hospital workflow automation and clinical decision support.</li>
 <li>Integrated medical APIs and a SQL-based patient database for patient lookup, lab interpretation, and risk scoring.</li>

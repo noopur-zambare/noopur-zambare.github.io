@@ -1,10 +1,9 @@
 ---
-title: "Multi-Agent Medical Diagnosis Chatbot W - Clinical AI Assistant"
+title: "Multi-Agent Medical Diagnosis Chatbot"
 collection: projects
 permalink: /projects/project-3
 
 excerpt: "<div style='text-align: justify;'>
-<b>Multi-agent LLM chatbot for clinical diagnosis with persistent patient memory</b>
 <ul>
 <li>Designed a multi-agent LLM chatbot for clinical diagnosis using LangChain-based orchestration.</li>
 <li>Implemented vector-based patient memory using Pinecone for context-aware medical conversations.</li>

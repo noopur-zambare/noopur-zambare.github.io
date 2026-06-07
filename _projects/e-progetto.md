@@ -4,7 +4,6 @@ collection: projects
 permalink: /projects/project-5
 
 excerpt: "<div style='text-align: justify;'>
-<b>Tool for project management</b>
 <ul>
 <li>Developed a platform to manage all ongoing projects on a University Campus.</li>
 <li>Designed REST APIs for interactive user experience.</li>
