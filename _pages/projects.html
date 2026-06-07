@@ -9,6 +9,18 @@ author_profile: true
 
 {% assign sorted_projects = site.projects | sort: "date" %}
 
+<style>
+  .project-excerpt ul {
+    margin: 6px 0 0 0;
+    padding-left: 18px;
+  }
+
+  .project-excerpt li {
+    margin: 2px 0;
+    line-height: 1.4;
+  }
+</style>
+
 <ul style="list-style: none; padding-left: 0; margin-left: 0;">
 
 {% for post in sorted_projects %}
@@ -26,7 +38,7 @@ author_profile: true
           </a>
         </h3>
 
-        <div style="margin: 0; line-height: 1.25;">
+        <div class="project-excerpt" style="margin: 0; line-height: 1.25;">
           {{ post.excerpt }}
         </div>
 
