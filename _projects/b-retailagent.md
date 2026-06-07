@@ -1,7 +1,7 @@
 ---
 title: "RetailAgent - Agentic Retail Analytics System"
 collection: projects
-permalink: /projects/project-1
+permalink: /projects/project-2
 
 excerpt: "<div style='text-align: justify;'>
 <ul style='margin: 6px 0 0 0; padding-left: 18px;'>

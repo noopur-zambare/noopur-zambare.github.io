@@ -1,7 +1,7 @@
 ---
 title: "Hospital Assistant MCP Server"
 collection: projects
-permalink: /projects/project-2
+permalink: /projects/project-1
 
 excerpt: "<div style='text-align: justify;'>
 <ul style='margin: 6px 0 0 0; padding-left: 18px;'>
