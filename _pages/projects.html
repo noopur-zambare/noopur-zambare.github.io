@@ -44,8 +44,6 @@ author_profile: true
     z-index: 10;
     box-shadow: 0 2px 8px rgba(0,0,0,0.12);
     transition: all 0.2s ease;
-
-    /* 🔥 IMPORTANT: remove underline */
     text-decoration: none !important;
   }
 
@@ -60,8 +58,10 @@ author_profile: true
     text-decoration: none !important;
   }
 
-  /* IMAGE STYLE */
-  .media-wrapper img {
+  /* IMAGE + VIDEO STYLE (ROUNDED CORNERS ADDED HERE) */
+  .media-wrapper img,
+  .media-wrapper video {
+    width: 100%;
     border: 2px solid #000;
     border-radius: 14px;
     box-shadow: 0 4px 18px rgba(0,0,0,0.08);
@@ -111,24 +111,21 @@ author_profile: true
 
         {% if post.header.teaser %}
           <div class="media-wrapper">
-            <img src="{{ post.header.teaser }}" style="width: 100%;">
-
+            <img src="{{ post.header.teaser }}">
             <a class="expand-btn" href="{{ base_path }}{{ post.url }}">↗</a>
           </div>
 
         {% elsif post.video %}
           <div class="media-wrapper">
-            <video controls style="width: 100%;">
+            <video controls>
               <source src="{{ post.video }}" type="video/mp4">
             </video>
-
             <a class="expand-btn" href="{{ base_path }}{{ post.url }}">↗</a>
           </div>
 
         {% elsif post.image %}
           <div class="media-wrapper">
-            <img src="{{ post.image }}" style="width: 100%;">
-
+            <img src="{{ post.image }}">
             <a class="expand-btn" href="{{ base_path }}{{ post.url }}">↗</a>
           </div>
         {% endif %}
