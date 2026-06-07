@@ -24,7 +24,7 @@ video: /images/medical-chatbot.mp4
 <h2>Tech Stack</h2>
 
 [![Python](https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=white)](#)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
 [![Pinecone](https://img.shields.io/badge/Pinecone-000000.svg)](#)
 [![Gradio](https://img.shields.io/badge/Gradio-F97316.svg)](#)
 [![LLM Agents](https://img.shields.io/badge/LLM%20Agents-8A2BE2.svg)](#)

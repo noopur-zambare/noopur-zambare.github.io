@@ -11,7 +11,7 @@ excerpt: "<div style='text-align: justify;'>
 <img src='https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white'/>
 <img src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white'/>
 <img src='https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white'/>
-<img src='https://img.shields.io/badge/DeepEval-Evaluation%20Framework-orange'/>
+<img src='https://img.shields.io/badge/DeepEval'/>
 </li>
 </ul>
 </div>"
