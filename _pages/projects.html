@@ -48,15 +48,18 @@ author_profile: true
       <div style="width: 48%;">
 
         {% if post.header.teaser %}
-          <img src="{{ post.header.teaser }}" style="width: 100%; border-radius: 6px;">
+          <img src="{{ post.header.teaser }}"
+              style="width: 100%; border-radius: 14px; object-fit: cover; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
 
         {% elsif post.video %}
-          <video width="100%" controls style="border-radius: 6px;">
+          <video width="100%" controls
+                style="border-radius: 14px; object-fit: cover; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
             <source src="{{ post.video }}" type="video/mp4">
           </video>
 
         {% elsif post.image %}
-          <img src="{{ post.image }}" style="width: 100%; border-radius: 6px;">
+          <img src="{{ post.image }}"
+              style="width: 100%; border-radius: 14px; object-fit: cover; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
         {% endif %}
 
       </div>
