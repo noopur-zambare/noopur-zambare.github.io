@@ -7,9 +7,8 @@ image: /images/debiased_pruning/diagram.png
 
 excerpt: "<div style='text-align: justify;'>
 <ul style='margin: 6px 0 0 0; padding-left: 18px;'>
-<li style='margin: 2px 0;'>Neural Collapse-Inspired Pruning: Preserves class separability during pruning in imbalanced datasets.</li>
-<li style='margin: 2px 0;'>Bias Mitigation & Robustness: Reduces bias toward majority classes and improves robustness under noisy conditions.</li>
-<li style='margin: 2px 0;'>Experimental Results: Demonstrates strong accuracy retention and fairness, especially for minority classes in imbalanced settings.</li>
+<li style='margin: 2px 0;'>Designed a Neural Collapse-inspired pruning framework to improve efficiency under data imbalance.</li>
+<li style='margin: 2px 0;'>Achieved 95% accuracy up to 60% pruning, while preserving minority-class performance.</li>
 <li>
 <img src='[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)'/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=keras&logoColor=white"/></li>
