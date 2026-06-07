@@ -5,8 +5,9 @@ permalink: /projects/project-5
 
 excerpt: "<div style='text-align: justify;'>
 <ul style='margin: 6px 0 0 0; padding-left: 18px;'>
-<li style='margin: 2px 0;'>Developed a platform to manage all ongoing projects on a University Campus.</li>
-<li style='margin: 2px 0;'>Designed APIs to manage MongoDB data (create, read, update, delete).</li>
+<li style='margin: 2px 0;'>Built a MERN stack project management web app for university use.</li>
+<li style='margin: 2px 0;'>Implemented authentication with an admin portal for CRUD operations on projects.</li>
+<li style='margin: 2px 0;'>Developed RESTful APIs for creating, updating, and deleting project data.</li>
 <li>
 <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white'/>
 <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white'/>
@@ -22,8 +23,9 @@ video: /images/Progetto.mp4
 <h2>Tool for project management</h2>
 
 <ul>
-<li>Developed a platform to manage all ongoing projects on a University Campus.</li>
-<li>Designed APIs to manage MongoDB data (create, read, update, delete).</li>
+<li>Built a MERN stack project management web app for university use.</li>
+<li>Implemented authentication with an admin portal for CRUD operations on projects.</li>
+<li>Developed RESTful APIs for creating, updating, and deleting project data.</li>
 </ul>
 
 <h2>Tech Stack</h2>
