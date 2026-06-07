@@ -4,9 +4,9 @@ collection: projects
 permalink: /projects/project-1
 
 excerpt: "<div style='text-align: justify;'>
-<ul style='margin: 6px 0 0 0; padding-left: 0; list-style-position: inside;'>
-<li>Developed an agentic analytics system enabling natural language queries over structured Statistics Canada datasets.</li>
-<li>Integrated SQLite, ChromaDB, and Gemini to support retrieval-augmented reasoning and semantic search.</li>
+<ul style='margin: 6px 0 0 0; padding-left: 18px;'>
+<li style='margin: 2px 0;'>Developed an agentic analytics system enabling natural language queries over structured Statistics Canada datasets.</li>
+<li style='margin: 2px 0;'>Integrated SQLite, ChromaDB, and Gemini to support retrieval-augmented reasoning and semantic search.</li>
 </ul>
 </div>"
 

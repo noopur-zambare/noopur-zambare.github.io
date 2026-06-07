@@ -5,11 +5,11 @@ permalink: /projects/project-4
 
 image: /images/debiased_pruning/diagram.png
 
-excerpt: "<div style='text-align: justify;'> 
-<ul style='margin: 6px 0 0 0; padding-left: 0; list-style-position: inside;'>
-<li>Neural Collapse-Inspired Pruning: Preserves class separability during pruning in imbalanced datasets.</li>
-<li>Bias Mitigation & Robustness: Reduces bias towards majority classes and tests model robustness under noisy conditions.</li>
-<li>Experimental Results: Demonstrates effective accuracy retention and fairness, especially for minority classes in imbalanced data.</li>
+excerpt: "<div style='text-align: justify;'>
+<ul style='margin: 6px 0 0 0; padding-left: 18px;'>
+<li style='margin: 2px 0;'>Neural Collapse-Inspired Pruning: Preserves class separability during pruning in imbalanced datasets.</li>
+<li style='margin: 2px 0;'>Bias Mitigation & Robustness: Reduces bias toward majority classes and improves robustness under noisy conditions.</li>
+<li style='margin: 2px 0;'>Experimental Results: Demonstrates strong accuracy retention and fairness, especially for minority classes in imbalanced settings.</li>
 </ul>
 </div>"
 ---
