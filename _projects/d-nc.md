@@ -1,7 +1,7 @@
 ---
 title: "Neaural Network Pruning using Neural Collapse under Imbalanced Dataset"
 collection: projects
-permalink: /projects/project-2
+permalink: /projects/project-4
 
 image: /images/debiased_pruning/diagram.png
 

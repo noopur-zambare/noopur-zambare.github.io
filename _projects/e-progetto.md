@@ -1,7 +1,7 @@
 ---
 title: "Progetto - Project Management Platform"
 collection: projects
-permalink: /projects/project-1
+permalink: /projects/project-5
 
 excerpt: "<div style='text-align: justify;'>
 <b>Tool for project management</b>
