@@ -25,35 +25,48 @@ author_profile: true
     position: relative;
   }
 
-  /* EXPAND BUTTON (45° arrow) */
+  /* ✅ IMPROVED EXPAND BUTTON */
   .expand-btn {
     position: absolute;
-    top: 10px;
-    right: 10px;
-    transform: rotate(45deg);
-    background: rgba(0,0,0,0.55);
-    color: white;
-    border: none;
-    width: 28px;
-    height: 28px;
-    border-radius: 6px;
+    top: 12px;
+    right: 12px;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(0,0,0,0.25);
+    background: rgba(255,255,255,0.92);
+    color: #111;
+    font-size: 16px;
     cursor: pointer;
-    font-size: 14px;
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 10;
-    transition: 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
   }
 
   .expand-btn:hover {
-    background: rgba(0,0,0,0.85);
-    transform: rotate(45deg) scale(1.1);
+    transform: scale(1.1);
+    background: #fff;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.18);
   }
 
-  /* ✅ BLACK BORDER ONLY FOR IMAGES */
+  /* KEEP IMAGE STYLE */
   .media-wrapper img {
     border: 2px solid #000;
+    border-radius: 14px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  }
+
+  /* TITLE HOVER UNDERLINE */
+  .project-title a {
+    text-decoration: none;
+  }
+
+  .project-title a:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
   }
 </style>
 
@@ -68,8 +81,8 @@ author_profile: true
       <!-- LEFT: TEXT -->
       <div style="flex: 1;">
 
-        <h3 style="margin: 0 0 3px 0; font-size: 1.1em; font-weight: 600;">
-          <a href="{{ base_path }}{{ post.url }}" style="text-decoration: none; color: inherit;">
+        <h3 class="project-title" style="margin: 0 0 3px 0; font-size: 1.1em; font-weight: 600;">
+          <a href="{{ base_path }}{{ post.url }}" style="color: inherit;">
             {{ post.title }}
           </a>
         </h3>
@@ -80,20 +93,18 @@ author_profile: true
 
       </div>
 
-      <!-- RIGHT: IMAGE / VIDEO -->
+      <!-- RIGHT: MEDIA -->
       <div style="width: 48%;">
 
         {% if post.header.teaser %}
           <div class="media-wrapper">
-            <img src="{{ post.header.teaser }}"
-                 style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
+            <img src="{{ post.header.teaser }}" style="width: 100%;">
             <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
           </div>
 
         {% elsif post.video %}
           <div class="media-wrapper">
-            <video controls
-                   style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
+            <video controls style="width: 100%;">
               <source src="{{ post.video }}" type="video/mp4">
             </video>
             <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
@@ -101,8 +112,7 @@ author_profile: true
 
         {% elsif post.image %}
           <div class="media-wrapper">
-            <img src="{{ post.image }}"
-                 style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
+            <img src="{{ post.image }}" style="width: 100%;">
             <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
           </div>
         {% endif %}
@@ -144,7 +154,6 @@ function openFullscreen(btn) {
     z-index: 9999;
   `;
 
-  /* CLOSE BUTTON */
   const closeBtn = document.createElement("div");
   closeBtn.innerHTML = "✕";
   closeBtn.style.cssText = `
@@ -156,7 +165,6 @@ function openFullscreen(btn) {
     cursor: pointer;
     font-weight: bold;
     z-index: 10000;
-    user-select: none;
   `;
   closeBtn.onclick = () => modal.remove();
 
