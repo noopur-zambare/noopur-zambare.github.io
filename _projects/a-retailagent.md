@@ -10,9 +10,9 @@ excerpt: "<div style='text-align: justify;'>
 <li>
 <img src='https://img.shields.io/badge/ChromaDB-4B0082.svg'/>
 <img src='https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white'/>
-<img src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white'/>
 <img src='https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white'/>
 <img src='https://img.shields.io/badge/DeepEval-orange'/>
+<img src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white'/>
 </li>
 </ul>
 </div>"
