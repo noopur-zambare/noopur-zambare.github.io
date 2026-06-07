@@ -19,6 +19,11 @@ video: /images/medical-chatbot.mp4
 <li>Developed a multi-agent LLM system for clinical diagnosis using LangChain for orchestration and tool coordination.</li>
 <li>Integrated Pinecone vector database to enable persistent, context-aware patient memory across interactions.</li>
 <li>Deployed the system as an interactive Gradio application for real-time conversational clinical assistance.</li>
+<li>
+<img src='https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white'/>
+<img src='https://img.shields.io/badge/Pinecone-000000.svg'/>
+<img src='https://img.shields.io/badge/LLM%20Agents-8A2BE2.svg'/>
+<img src='https://img.shields.io/badge/Gradio-F97316.svg'/></li>
 </ul>
 
 <h2>Tech Stack</h2>
