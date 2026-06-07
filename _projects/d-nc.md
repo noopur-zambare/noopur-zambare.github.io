@@ -1,5 +1,5 @@
 ---
-title: "Dense Network Pruning using Neural Collapse under Imbalanced Dataset"
+title: "Neaural Network Pruning using Neural Collapse under Imbalanced Dataset"
 collection: projects
 permalink: /projects/project-2
 
