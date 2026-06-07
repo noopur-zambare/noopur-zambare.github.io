@@ -3,7 +3,7 @@ title: "Graduate Teaching Assistant"
 excerpt: "<div style='text-align: justify;'>
 
 <b>
-University of Alberta | CMPUT 200: Ethics of Data Science and AI | Sept 2024 - Dec 2024
+University of Alberta | Sept 2024 - Dec 2024
 </b>
 
 <ul style='margin:8px 0 2px 0; padding-left:18px;'>
