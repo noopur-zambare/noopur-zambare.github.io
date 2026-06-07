@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/project-2
 
 excerpt: "<div style='text-align: justify;'>
-<ul>
+<ul style='margin: 6px 0 0 0; padding-left: 0; list-style-position: inside;'>
 <li>Built an MCP server powering a multi-tool LLM agent for hospital workflow automation and clinical decision support.</li>
 <li>Integrated medical APIs and a SQL-based patient database for patient lookup, lab interpretation, and risk scoring.</li>
 </ul>

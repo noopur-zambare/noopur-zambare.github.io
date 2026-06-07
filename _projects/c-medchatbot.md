@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/project-3
 
 excerpt: "<div style='text-align: justify;'>
-<ul>
+<ul style='margin: 6px 0 0 0; padding-left: 0; list-style-position: inside;'>
 <li>Designed a multi-agent LLM chatbot for clinical diagnosis using LangChain-based orchestration.</li>
 <li>Implemented vector-based patient memory using Pinecone for context-aware medical conversations.</li>
 </ul>
