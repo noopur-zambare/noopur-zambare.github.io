@@ -25,7 +25,7 @@ author_profile: true
     position: relative;
   }
 
-  /* ✅ IMPROVED EXPAND BUTTON */
+  /* ARROW BUTTON (LINK STYLE) */
   .expand-btn {
     position: absolute;
     top: 12px;
@@ -44,15 +44,15 @@ author_profile: true
     z-index: 10;
     box-shadow: 0 2px 8px rgba(0,0,0,0.12);
     transition: all 0.2s ease;
+    text-decoration: none;
   }
 
   .expand-btn:hover {
     transform: scale(1.1);
-    background: #fff;
     box-shadow: 0 4px 14px rgba(0,0,0,0.18);
   }
 
-  /* KEEP IMAGE STYLE */
+  /* IMAGE STYLE */
   .media-wrapper img {
     border: 2px solid #000;
     border-radius: 14px;
@@ -99,7 +99,9 @@ author_profile: true
         {% if post.header.teaser %}
           <div class="media-wrapper">
             <img src="{{ post.header.teaser }}" style="width: 100%;">
-            <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
+
+            <!-- SAME LINK AS TITLE -->
+            <a class="expand-btn" href="{{ base_path }}{{ post.url }}">↗</a>
           </div>
 
         {% elsif post.video %}
@@ -107,13 +109,17 @@ author_profile: true
             <video controls style="width: 100%;">
               <source src="{{ post.video }}" type="video/mp4">
             </video>
-            <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
+
+            <!-- SAME LINK AS TITLE -->
+            <a class="expand-btn" href="{{ base_path }}{{ post.url }}">↗</a>
           </div>
 
         {% elsif post.image %}
           <div class="media-wrapper">
             <img src="{{ post.image }}" style="width: 100%;">
-            <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
+
+            <!-- SAME LINK AS TITLE -->
+            <a class="expand-btn" href="{{ base_path }}{{ post.url }}">↗</a>
           </div>
         {% endif %}
 
@@ -130,71 +136,3 @@ author_profile: true
 {% endfor %}
 
 </ul>
-
-<script>
-function openFullscreen(btn) {
-  const media = btn.parentElement.querySelector("img, video");
-  const src = media.tagName === "VIDEO"
-    ? media.querySelector("source").src
-    : media.src;
-
-  const isVideo = media.tagName === "VIDEO";
-
-  const modal = document.createElement("div");
-  modal.style.cssText = `
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background: rgba(0,0,0,0.92);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 9999;
-  `;
-
-  const closeBtn = document.createElement("div");
-  closeBtn.innerHTML = "✕";
-  closeBtn.style.cssText = `
-    position: absolute;
-    top: 18px;
-    right: 22px;
-    color: white;
-    font-size: 28px;
-    cursor: pointer;
-    font-weight: bold;
-    z-index: 10000;
-  `;
-  closeBtn.onclick = () => modal.remove();
-
-  let content;
-
-  if (isVideo) {
-    content = document.createElement("video");
-    content.src = src;
-    content.controls = true;
-    content.autoplay = true;
-  } else {
-    content = document.createElement("img");
-    content.src = src;
-  }
-
-  content.style.cssText = `
-    max-width: 95vw;
-    max-height: 95vh;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-    border-radius: 10px;
-  `;
-
-  modal.appendChild(closeBtn);
-  modal.appendChild(content);
-  document.body.appendChild(modal);
-
-  modal.onclick = (e) => {
-    if (e.target === modal) modal.remove();
-  };
-}
-</script>
