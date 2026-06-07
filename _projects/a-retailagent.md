@@ -32,12 +32,11 @@ image: /images/retail-agent.png
 
 <h2>Tech Stack</h2>
 
-[![Python](https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=white)](#)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082.svg)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white)](#)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082.svg)](#)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white)](#)
-[![DeepEval](https://img.shields.io/badge/DeepEval-Evaluation%20Framework-orange)](#)
+[![DeepEval](https://img.shields.io/badge/DeepEval)](#)
 
 <h2>User Interface</h2>
 
