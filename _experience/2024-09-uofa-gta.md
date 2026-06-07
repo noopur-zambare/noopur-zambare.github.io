@@ -1,18 +1,18 @@
----
-title: "University of Alberta"
+title: "Graduate Teaching Assistant"
 excerpt: "<div style='text-align: justify;'>
-<b>Graduate Teaching Assistant - CMPUT 200 | Sept 2024 - Dec 2024 </b>
 
-<ul>
-<li>Worked as TA for CMPUT 200 - Ethics of Data Science and AI (Fall 2024 & Winter 2025).</li>
-<li>Conducted office hours, labs, grading assignments and exams, solving student queries, etc.</li>
-"
-collection: experience
----
+<b>
+University of Alberta | CMPUT 200: Ethics of Data Science and AI | Sept 2024 - Dec 2024
+</b>
 
-<ul>
-    <li>Graduate Teaching Assistant for CMPUT 200 - Ethics of Data Science and Artificial Intelligence.</li>
-    <li>Conducted office hours, led labs, and addressed student queries.</li>   
-    <li>Graded assignments and exams, providing feedback to students for improvement.</li>   
-    <li>Developed skills in time management, communication, and collaborative learning.</li>  
+<ul style='margin:8px 0 2px 0; padding-left:18px;'>
+
+<li>Served as Graduate Teaching Assistant for CMPUT 200: Ethics of Data Science and Artificial Intelligence.</li>
+<li>Conducted office hours and lab sessions, supporting students with conceptual understanding and coursework challenges.</li>
+<li>Evaluated assignments and exams, providing structured feedback to enhance student learning outcomes.</li>
+<li>Strengthened skills in communication, time management, and collaborative academic instruction.</li>
+
 </ul>
+
+</div>"
+collection: experience
