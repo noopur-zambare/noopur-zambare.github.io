@@ -1,133 +1,8 @@
----
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
----
-
-{% include base_path %}
-
-{% assign sorted_projects = site.projects | sort: "date" %}
-
-<style>
-  .project-excerpt ul {
-    margin: 6px 0 0 0;
-    padding-left: 18px;
-  }
-
-  .project-excerpt li {
-    margin: 2px 0;
-    line-height: 1.4;
-  }
-
-  /* MEDIA WRAPPER */
-  .media-wrapper {
-    position: relative;
-  }
-
-  /* 45° UPWARD ARROW BUTTON */
-  .expand-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    transform: rotate(45deg); /* ↗ upward feel */
-    background: rgba(0,0,0,0.55);
-    color: white;
-    border: none;
-    width: 28px;
-    height: 28px;
-    border-radius: 6px;
-    cursor: pointer;
-    font-size: 14px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 10;
-    transition: 0.2s;
-  }
-
-  .expand-btn:hover {
-    background: rgba(0,0,0,0.85);
-    transform: rotate(45deg) scale(1.1);
-  }
-</style>
-
-<ul style="list-style: none; padding-left: 0; margin-left: 0;">
-
-{% for post in sorted_projects %}
-
-  <li style="margin-bottom: 22px;">
-
-    <div style="display: flex; gap: 62px; align-items: flex-start;">
-
-      <!-- LEFT: TEXT -->
-      <div style="flex: 1;">
-
-        <h3 style="margin: 0 0 3px 0; font-size: 1.1em; font-weight: 600;">
-          <a href="{{ base_path }}{{ post.url }}" style="text-decoration: none; color: inherit;">
-            {{ post.title }}
-          </a>
-        </h3>
-
-        <div class="project-excerpt" style="margin: 0; line-height: 1.25;">
-          {{ post.excerpt }}
-        </div>
-
-      </div>
-
-      <!-- RIGHT: IMAGE / VIDEO -->
-      <div style="width: 48%;">
-
-        {% if post.header.teaser %}
-          <div class="media-wrapper">
-            <img src="{{ post.header.teaser }}"
-                 style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
-
-            <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
-          </div>
-
-        {% elsif post.video %}
-          <div class="media-wrapper">
-            <video controls
-                   style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
-              <source src="{{ post.video }}" type="video/mp4">
-            </video>
-
-            <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
-          </div>
-
-        {% elsif post.image %}
-          <div class="media-wrapper">
-            <img src="{{ post.image }}"
-                 style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
-
-            <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
-          </div>
-        {% endif %}
-
-      </div>
-
-    </div>
-
-  </li>
-
-  {% unless forloop.last %}
-    <hr style="margin: 25px 0; border: 0; border-top: 2px solid #eee;">
-  {% endunless %}
-
-{% endfor %}
-
-</ul>
-
 <script>
 function openFullscreen(btn) {
   const media = btn.parentElement.querySelector("img, video");
-
-  const src = media.tagName === "VIDEO"
-    ? media.querySelector("source").src
-    : media.src;
-
-  const isVideo = media.tagName === "VIDEO";
+  const src = media.tagName === "VIDEO" ? media.querySelector("source").src : media.src;
+  const type = media.tagName.toLowerCase();
 
   const modal = document.createElement("div");
   modal.style.cssText = `
@@ -145,7 +20,7 @@ function openFullscreen(btn) {
 
   let content;
 
-  if (isVideo) {
+  if (type === "video") {
     content = document.createElement("video");
     content.src = src;
     content.controls = true;
