@@ -11,7 +11,8 @@ excerpt: "<div style='text-align: justify;'>
 <img src='https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white'/>
 <img src='https://img.shields.io/badge/MCP%20Server-333333.svg'/>
 <img src='https://img.shields.io/badge/LLM%20Agents-8A2BE2.svg'/>
-<img src='https://img.shields.io/badge/SQL-4479A1.svg'/></li>
+<img src='https://img.shields.io/badge/SQL-4479A1.svg'/>
+</li>
 </ul>
 </div>"
 
