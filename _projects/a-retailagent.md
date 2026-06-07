@@ -20,6 +20,13 @@ image: /images/retail-agent.png
 <li>Integrated SQLite for structured data storage, ChromaDB for vector retrieval, and Gemini for natural language understanding and response generation.</li>
 <li>Achieved 0.90+ faithfulness and 4.6s average latency, validated using DeepEval benchmarking framework.</li>
 <li>Deployed as an interactive Streamlit application for real-time analytics and user interaction.</li>
+<li><img src='https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=white'/>
+<img src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white'/>
+<img src='https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white'/>
+<img src='https://img.shields.io/badge/ChromaDB-4B0082.svg'/>
+<img src='https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white'/>
+<img src='https://img.shields.io/badge/DeepEval-Evaluation%20Framework-orange'/>
+</li>
 </ul>
 
 <h2>Tech Stack</h2>
@@ -31,9 +38,6 @@ image: /images/retail-agent.png
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white)](#)
 [![DeepEval](https://img.shields.io/badge/DeepEval-Evaluation%20Framework-orange)](#)
 
-<h2>Demo</h2>
+<h2>User Interface</h2>
 
-<video width="100%" controls>
-  <source src="/images/retail-agent.png" type="png">
-  Your browser does not support the tag.
-</video>
+<img src="/images/retail-agent.png" width="100%" alt="Retail Agent">
