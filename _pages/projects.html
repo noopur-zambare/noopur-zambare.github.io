@@ -20,16 +20,17 @@ author_profile: true
     line-height: 1.4;
   }
 
-  /* ONLY ADDED FOR EXPAND BUTTON */
+  /* MEDIA WRAPPER */
   .media-wrapper {
     position: relative;
   }
 
+  /* 45° UPWARD ARROW BUTTON */
   .expand-btn {
     position: absolute;
     top: 10px;
     right: 10px;
-    transform: rotate(45deg);
+    transform: rotate(45deg); /* ↗ upward feel */
     background: rgba(0,0,0,0.55);
     color: white;
     border: none;
@@ -46,7 +47,7 @@ author_profile: true
   }
 
   .expand-btn:hover {
-    background: rgba(0,0,0,0.8);
+    background: rgba(0,0,0,0.85);
     transform: rotate(45deg) scale(1.1);
   }
 </style>
@@ -80,15 +81,15 @@ author_profile: true
         {% if post.header.teaser %}
           <div class="media-wrapper">
             <img src="{{ post.header.teaser }}"
-                style="width: 100%; border-radius: 14px; object-fit: cover; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
+                 style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
 
             <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
           </div>
 
         {% elsif post.video %}
           <div class="media-wrapper">
-            <video width="100%" controls
-                  style="border-radius: 14px; object-fit: cover; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
+            <video controls
+                   style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
               <source src="{{ post.video }}" type="video/mp4">
             </video>
 
@@ -98,7 +99,7 @@ author_profile: true
         {% elsif post.image %}
           <div class="media-wrapper">
             <img src="{{ post.image }}"
-                style="width: 100%; border-radius: 14px; object-fit: cover; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
+                 style="width: 100%; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);">
 
             <button class="expand-btn" onclick="openFullscreen(this)">↗</button>
           </div>
@@ -122,12 +123,50 @@ author_profile: true
 function openFullscreen(btn) {
   const media = btn.parentElement.querySelector("img, video");
 
-  if (media.requestFullscreen) {
-    media.requestFullscreen();
-  } else if (media.webkitRequestFullscreen) {
-    media.webkitRequestFullscreen();
-  } else if (media.msRequestFullscreen) {
-    media.msRequestFullscreen();
+  const src = media.tagName === "VIDEO"
+    ? media.querySelector("source").src
+    : media.src;
+
+  const isVideo = media.tagName === "VIDEO";
+
+  const modal = document.createElement("div");
+  modal.style.cssText = `
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.92);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  `;
+
+  let content;
+
+  if (isVideo) {
+    content = document.createElement("video");
+    content.src = src;
+    content.controls = true;
+    content.autoplay = true;
+  } else {
+    content = document.createElement("img");
+    content.src = src;
   }
+
+  content.style.cssText = `
+    max-width: 95vw;
+    max-height: 95vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+  `;
+
+  modal.appendChild(content);
+  document.body.appendChild(modal);
+
+  modal.onclick = () => modal.remove();
 }
 </script>
