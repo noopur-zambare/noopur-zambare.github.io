@@ -7,11 +7,12 @@ excerpt: "<div style='text-align: justify;'>
 <ul style='margin: 6px 0 0 0; padding-left: 18px;'>
 <li style='margin: 2px 0;'>Developed an agentic analytics system enabling natural language queries over structured Statistics Canada datasets.</li>
 <li style='margin: 2px 0;'>Integrated SQLite, ChromaDB, and Gemini to support retrieval-augmented reasoning and semantic search.</li>
-<li><img src='https://img.shields.io/badge/ChromaDB-4B0082.svg'/>
+<li>
+<img src='https://img.shields.io/badge/ChromaDB-4B0082.svg'/>
 <img src='https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white'/>
 <img src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white'/>
 <img src='https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white'/>
-<img src='<img src="https://img.shields.io/badge/DeepEval-DeepEval-orange"/>
+<img src="https://img.shields.io/badge/DeepEval-DeepEval-orange"/>
 </li>
 </ul>
 </div>"

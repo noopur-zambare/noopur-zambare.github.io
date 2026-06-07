@@ -8,9 +8,9 @@ excerpt: "<div style='text-align: justify;'>
 <li style='margin: 2px 0;'>Designed a multi-agent LLM chatbot for clinical diagnosis using LangChain-based orchestration.</li>
 <li style='margin: 2px 0;'>Implemented vector-based patient memory using Pinecone for context-aware medical conversations.</li>
 <li>
+<img src='https://img.shields.io/badge/LLM%20Agents-8A2BE2.svg'/>
 <img src='https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white'/>
 <img src='https://img.shields.io/badge/Pinecone-000000.svg'/>
-<img src='https://img.shields.io/badge/LLM%20Agents-8A2BE2.svg'/>
 <img src='https://img.shields.io/badge/Gradio-F97316.svg'/>
 </li>
 </ul>
