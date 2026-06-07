@@ -8,7 +8,8 @@ image: /images/debiased_pruning/diagram.png
 excerpt: "<div style='text-align: justify;'>
 <ul style='margin: 6px 0 0 0; padding-left: 18px;'>
 <li style='margin: 2px 0;'>Designed a Neural Collapse-inspired pruning framework to improve efficiency under data imbalance.</li>
-<li style='margin: 2px 0;'>Achieved 95% accuracy up to 60% pruning, while preserving minority-class performance.</li>
+<li style='margin: 2px 0;'>Preserved class separability, reduced bias, and retained effective accuracy for minority classes during pruning.</li>
+<li style='margin: 2px 0;'>Achieved 95% accuracy up to 60% pruning.</li>
 <li>
 <img src='https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white'/>
 <img src='https://img.shields.io/badge/Deep%20Learning-purple'/>
