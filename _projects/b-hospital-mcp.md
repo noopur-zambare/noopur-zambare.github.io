@@ -11,7 +11,7 @@ excerpt: "<div style='text-align: justify;'>
 </ul>
 </div>"
 
-video: /images/hospital-mcp.mp4
+video: /images/hospital-mcp.mov
 ---
 
 <h2>Multi-Tool Clinical Assistant MCP Server</h2>
@@ -34,6 +34,6 @@ video: /images/hospital-mcp.mp4
 <h2>Demo</h2>
 
 <video width="100%" controls>
-  <source src="/images/hospital-mcp.mp4" type="video/mp4">
+  <source src="/images/hospital-mcp.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>

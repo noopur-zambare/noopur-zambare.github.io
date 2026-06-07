@@ -11,7 +11,7 @@ excerpt: "<div style='text-align: justify;'>
 </ul>
 </div>"
 
-video: /images/RetailAgentW.mp4
+image: /images/retail-agent.png
 ---
 
 <h2>Agentic Retail Analytics System</h2>
@@ -35,6 +35,6 @@ video: /images/RetailAgentW.mp4
 <h2>Demo</h2>
 
 <video width="100%" controls>
-  <source src="/images/RetailAgentW.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="/images/retail-agent.png" type="png">
+  Your browser does not support the tag.
 </video>
