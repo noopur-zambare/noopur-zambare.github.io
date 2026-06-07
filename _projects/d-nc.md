@@ -1,5 +1,5 @@
 ---
-title: "Neaural Network Pruning using Neural Collapse under Imbalanced Dataset"
+title: "Neaural Network Pruning Algorithm"
 collection: projects
 permalink: /projects/project-4
 
