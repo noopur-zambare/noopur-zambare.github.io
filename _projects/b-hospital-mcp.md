@@ -12,6 +12,7 @@ excerpt: "<div style='text-align: justify;'>
 <img src='https://img.shields.io/badge/MCP%20Server-333333.svg'/>
 <img src='https://img.shields.io/badge/LLM%20Agents-8A2BE2.svg'/>
 <img src='https://img.shields.io/badge/SQL-4479A1.svg'/>
+<img src='https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white'/>
 </li>
 </ul>
 </div>"

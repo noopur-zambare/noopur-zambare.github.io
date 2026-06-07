@@ -11,7 +11,7 @@ excerpt: "<div style='text-align: justify;'>
 <li style='margin: 2px 0;'>Achieved 95% accuracy up to 60% pruning, while preserving minority-class performance.</li>
 <li>
 <img src='https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white'/>
-<img src='https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=keras&logoColor=white'/>
+<img src="https://img.shields.io/badge/Deep%20Learning-black"/>
 </li>
 </ul>
 </div>"
