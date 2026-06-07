@@ -11,7 +11,7 @@ excerpt: "<div style='text-align: justify;'>
 <li style='margin: 2px 0;'>Achieved 95% accuracy up to 60% pruning, while preserving minority-class performance.</li>
 <li>
 <img src='https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white'/>
-<img src="https://img.shields.io/badge/Deep%20Learning-black"/>
+<img src='https://img.shields.io/badge/Deep%20Learning-black'/>
 </li>
 </ul>
 </div>"
