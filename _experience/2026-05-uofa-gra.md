@@ -3,7 +3,7 @@ title: "Graduate Research Assistant Fellow"
 excerpt: "<div style='text-align: justify;'>
 
 <b>
-Phair Lab, University of Alberta | May 2025 - Present
+Precision Health AI Research Lab, University of Alberta | May 2025 - Present
 </b>
 
 <ul style='margin:8px 0 2px 0; padding-left:18px;'>
