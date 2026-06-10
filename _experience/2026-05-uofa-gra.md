@@ -11,7 +11,7 @@ Precision Health AI Research Lab, University of Alberta | May 2025 - Present
 <li>Used PEFT fine-tuning to design robust clinical text de-identification models using Hugging Face, Docker, and MLOps practices.</li>
 <li>Contributed to a multi-stage document processing pipeline integrating OCR with LLM/VLM-based fallback systems for improved robustness.</li>
 <li>Built scalable ETL pipelines for large-scale clinical document ingestion, transformation, and structured data extraction.</li>
-<li>Tech Stack: PyTorch, Hugging Face Transformers, Docker, LLMs, MLOps, ETL Pipelines</li>
+<li>Tech Stack: PyTorch, Hugging Face Transformers, Docker, LLMs, MLOps</li>
 
 </ul>
 
